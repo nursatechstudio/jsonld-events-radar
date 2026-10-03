@@ -1,6 +1,6 @@
 # Upcoming Events
 
-Collected 2026-10-03T13:01:34.435Z by [JSON-LD Events Radar](https://github.com/nursatechstudio/jsonld-events-radar).
+Collected 2026-10-03T13:09:20.980Z by [JSON-LD Events Radar](https://github.com/nursatechstudio/jsonld-events-radar).
 
 | Start date | Event | Location | Ticket price |
 | --- | --- | --- | --- |
