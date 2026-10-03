@@ -1,0 +1,12 @@
+{
+  "targets": [
+    {
+      "name": "Meetup NYC public event search",
+      "url": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Eventbrite online conferences",
+      "url": "https://www.eventbrite.com/d/online/conference/"
+    }
+  ]
+}
