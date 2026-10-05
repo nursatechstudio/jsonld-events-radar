@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-10-04T14:47:21.976Z",
+  "generatedAt": "2026-10-05T06:59:55.948Z",
   "events": [
     {
-      "name": "🌴☕ Cuban Lunch at Victor's Cafe! 🥘🎶",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316795561/",
-      "startDate": "2026-10-04T17:00:00.000Z",
-      "endDate": "2026-10-04T17:00:00.000Z",
-      "location": "Victor's Cafe — 236 West 52nd, New York, NY, New York, NY, New York, NY, us",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Midtown Architecture and History Tour: From Pre-War to Art Deco to Modern",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316129829/",
-      "startDate": "2026-10-04T20:00:00.000Z",
-      "endDate": "2026-10-04T20:00:00.000Z",
-      "location": "455 5th Ave — 455 5th Avenue, New York, NY, New York, NY, US",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
+      "name": "(IN-PERSON) 30 Minute Letting Go Session (Doors Close at 6:05PM! ;))",
+      "url": "https://www.meetup.com/lettinggocenter/events/316572701/",
+      "startDate": "2026-10-05T21:45:00.000Z",
+      "endDate": "2026-10-05T21:45:00.000Z",
+      "location": "Letting Go Center — 1030 6th Avenue | 5th Floor, New York, NY, New York, NY, us",
+      "performer": "Letting Go Center - Daily Letting Go Sessions",
+      "organizer": "Letting Go Center - Daily Letting Go Sessions",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -68,13 +57,46 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Confidence Club Monthly Chat",
-      "url": "https://www.meetup.com/new-york-city-confidence-club/events/316561810/",
-      "startDate": "2026-10-21T22:00:00.000Z",
-      "endDate": "2026-10-21T22:00:00.000Z",
+      "name": "The Connection Experiment  (Oct 10, Online)",
+      "url": "https://www.meetup.com/nyc-connection-experiment/events/316617105/",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "endDate": "2026-10-11T00:00:00.000Z",
       "location": "",
-      "performer": "New York City Confidence Club",
-      "organizer": "New York City Confidence Club",
+      "performer": "The Connection Experiment NYC",
+      "organizer": "The Connection Experiment NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "CHANGED TO 10/11- Free Visit to Alexander Hamilton's Home! | NYC CONNECTS 🗽🖼🎨",
+      "url": "https://www.meetup.com/nycconnects-social/events/316456927/",
+      "startDate": "2026-10-11T16:15:00.000Z",
+      "endDate": "2026-10-11T16:15:00.000Z",
+      "location": "Hamilton Grange National Memorial — 414 W 141st St, New York, NY, New York, NY, us",
+      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Chinese for Beginners: Learn Your First Chinese Conversation",
+      "url": "https://www.meetup.com/learn-chinese-with-dorothy-nyc/events/316603928/",
+      "startDate": "2026-10-11T23:00:00.000Z",
+      "endDate": "2026-10-11T23:00:00.000Z",
+      "location": "",
+      "performer": "Learn Chinese with Dorothy - NYC",
+      "organizer": "Learn Chinese with Dorothy - NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "[Postponed] [Tuesday] Discussion: First Impressions",
+      "url": "https://www.meetup.com/new-york-conversations/events/315847847/",
+      "startDate": "2026-10-13T23:00:00.000Z",
+      "endDate": "2026-10-13T23:00:00.000Z",
+      "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
+      "performer": "New York Interesting Conversations",
+      "organizer": "New York Interesting Conversations",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
