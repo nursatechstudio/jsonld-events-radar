@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-10-05T06:59:55.948Z",
+  "generatedAt": "2026-10-06T06:55:44.428Z",
   "events": [
-    {
-      "name": "(IN-PERSON) 30 Minute Letting Go Session (Doors Close at 6:05PM! ;))",
-      "url": "https://www.meetup.com/lettinggocenter/events/316572701/",
-      "startDate": "2026-10-05T21:45:00.000Z",
-      "endDate": "2026-10-05T21:45:00.000Z",
-      "location": "Letting Go Center — 1030 6th Avenue | 5th Floor, New York, NY, New York, NY, us",
-      "performer": "Letting Go Center - Daily Letting Go Sessions",
-      "organizer": "Letting Go Center - Daily Letting Go Sessions",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Coding Agents with Elastic Memory + The Evolution to Stateless Serverless",
       "url": "https://www.meetup.com/elastic-new-york-city-user-group/events/316299245/",
@@ -20,6 +9,17 @@
       "location": "Elastic NYC office — 1250 Broadway, New York, NY, New York, NY, us",
       "performer": "Elastic New York City User Group",
       "organizer": "Elastic New York City User Group",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "How To Create a Passive Income Online (Free Beginner Workshop)",
+      "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316044645/",
+      "startDate": "2026-10-07T19:00:00.000Z",
+      "endDate": "2026-10-07T19:00:00.000Z",
+      "location": "",
+      "performer": "AI Learning & Networking New York",
+      "organizer": "AI Learning & Networking New York",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -57,13 +57,35 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Connection Experiment  (Oct 10, Online)",
-      "url": "https://www.meetup.com/nyc-connection-experiment/events/316617105/",
-      "startDate": "2026-10-11T00:00:00.000Z",
-      "endDate": "2026-10-11T00:00:00.000Z",
+      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
+      "url": "https://www.meetup.com/loungeasia/events/316661198/",
+      "startDate": "2026-10-10T08:30:00.000Z",
+      "endDate": "2026-10-10T08:30:00.000Z",
+      "location": "The Long Acre Tavern — 146 W 47th St, New York, NY 10036, USA, New York, NY, New York, NY, us",
+      "performer": "🍜 Lounge Asia Asia-Pacific | Asian Socials (Easy English)",
+      "organizer": "🍜 Lounge Asia Asia-Pacific | Asian Socials (Easy English)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Free hiphop dance class!",
+      "url": "https://www.meetup.com/funeventsinny/events/314793517/",
+      "startDate": "2026-10-10T15:00:00.000Z",
+      "endDate": "2026-10-10T15:00:00.000Z",
+      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
+      "performer": "Fun events in NY!",
+      "organizer": "Fun events in NY!",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Your Identity?",
+      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
+      "startDate": "2026-10-10T21:00:00.000Z",
+      "endDate": "2026-10-10T21:00:00.000Z",
       "location": "",
-      "performer": "The Connection Experiment NYC",
-      "organizer": "The Connection Experiment NYC",
+      "performer": "Englewood Bible Study & Spiritual Truth Information.",
+      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -75,17 +97,6 @@
       "location": "Hamilton Grange National Memorial — 414 W 141st St, New York, NY, New York, NY, us",
       "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
       "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Chinese for Beginners: Learn Your First Chinese Conversation",
-      "url": "https://www.meetup.com/learn-chinese-with-dorothy-nyc/events/316603928/",
-      "startDate": "2026-10-11T23:00:00.000Z",
-      "endDate": "2026-10-11T23:00:00.000Z",
-      "location": "",
-      "performer": "Learn Chinese with Dorothy - NYC",
-      "organizer": "Learn Chinese with Dorothy - NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
