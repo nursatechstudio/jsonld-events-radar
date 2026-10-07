@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-10-06T06:55:44.428Z",
+  "generatedAt": "2026-10-07T06:56:10.583Z",
   "events": [
-    {
-      "name": "Coding Agents with Elastic Memory + The Evolution to Stateless Serverless",
-      "url": "https://www.meetup.com/elastic-new-york-city-user-group/events/316299245/",
-      "startDate": "2026-10-06T22:00:00.000Z",
-      "endDate": "2026-10-06T22:00:00.000Z",
-      "location": "Elastic NYC office — 1250 Broadway, New York, NY, New York, NY, us",
-      "performer": "Elastic New York City User Group",
-      "organizer": "Elastic New York City User Group",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "How To Create a Passive Income Online (Free Beginner Workshop)",
       "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316044645/",
@@ -20,6 +9,28 @@
       "location": "",
       "performer": "AI Learning & Networking New York",
       "organizer": "AI Learning & Networking New York",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "How to Start Conversations Anywhere",
+      "url": "https://www.meetup.com/confident_social_skills_newyork/events/315894949/",
+      "startDate": "2026-10-07T22:00:00.000Z",
+      "endDate": "2026-10-07T22:00:00.000Z",
+      "location": "",
+      "performer": "Confident Social Skills | New York",
+      "organizer": "Confident Social Skills | New York",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Boardgames at The Hugh in Midtown East!",
+      "url": "https://www.meetup.com/boardgame-icebreakers/events/314896395/",
+      "startDate": "2026-10-07T23:00:00.000Z",
+      "endDate": "2026-10-07T23:00:00.000Z",
+      "location": "The Hugh — 157 E 53rd St,, New York, NY, New York, NY, US",
+      "performer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
+      "organizer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -68,35 +79,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Free hiphop dance class!",
-      "url": "https://www.meetup.com/funeventsinny/events/314793517/",
-      "startDate": "2026-10-10T15:00:00.000Z",
-      "endDate": "2026-10-10T15:00:00.000Z",
-      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
-      "performer": "Fun events in NY!",
-      "organizer": "Fun events in NY!",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Your Identity?",
-      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
-      "startDate": "2026-10-10T21:00:00.000Z",
-      "endDate": "2026-10-10T21:00:00.000Z",
+      "name": "The Connection Experiment  (Oct 10, Online)",
+      "url": "https://www.meetup.com/nyc-connection-experiment/events/316617105/",
+      "startDate": "2026-10-11T00:00:00.000Z",
+      "endDate": "2026-10-11T00:00:00.000Z",
       "location": "",
-      "performer": "Englewood Bible Study & Spiritual Truth Information.",
-      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "CHANGED TO 10/11- Free Visit to Alexander Hamilton's Home! | NYC CONNECTS 🗽🖼🎨",
-      "url": "https://www.meetup.com/nycconnects-social/events/316456927/",
-      "startDate": "2026-10-11T16:15:00.000Z",
-      "endDate": "2026-10-11T16:15:00.000Z",
-      "location": "Hamilton Grange National Memorial — 414 W 141st St, New York, NY, New York, NY, us",
-      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "performer": "The Connection Experiment NYC",
+      "organizer": "The Connection Experiment NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -108,6 +97,17 @@
       "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
       "performer": "New York Interesting Conversations",
       "organizer": "New York Interesting Conversations",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "AI GLOBAL NETWORKING: Founders & Entrepreneurs #3 (ONLINE)",
+      "url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/316870339/",
+      "startDate": "2026-10-20T16:00:00.000Z",
+      "endDate": "2026-10-20T16:00:00.000Z",
+      "location": "",
+      "performer": "AI CIRCLE for Entrepreneurs",
+      "organizer": "AI CIRCLE for Entrepreneurs",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
