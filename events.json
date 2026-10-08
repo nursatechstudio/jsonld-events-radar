@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-10-07T06:56:10.583Z",
+  "generatedAt": "2026-10-08T06:58:07.482Z",
   "events": [
-    {
-      "name": "How To Create a Passive Income Online (Free Beginner Workshop)",
-      "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316044645/",
-      "startDate": "2026-10-07T19:00:00.000Z",
-      "endDate": "2026-10-07T19:00:00.000Z",
-      "location": "",
-      "performer": "AI Learning & Networking New York",
-      "organizer": "AI Learning & Networking New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "How to Start Conversations Anywhere",
-      "url": "https://www.meetup.com/confident_social_skills_newyork/events/315894949/",
-      "startDate": "2026-10-07T22:00:00.000Z",
-      "endDate": "2026-10-07T22:00:00.000Z",
-      "location": "",
-      "performer": "Confident Social Skills | New York",
-      "organizer": "Confident Social Skills | New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Boardgames at The Hugh in Midtown East!",
-      "url": "https://www.meetup.com/boardgame-icebreakers/events/314896395/",
-      "startDate": "2026-10-07T23:00:00.000Z",
-      "endDate": "2026-10-07T23:00:00.000Z",
-      "location": "The Hugh — 157 E 53rd St,, New York, NY, New York, NY, US",
-      "performer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
-      "organizer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Rust NYC: Zero Knowledge Proofs & GPUs in Rendering",
       "url": "https://www.meetup.com/rust-nyc/events/316698929/",
@@ -53,6 +20,17 @@
       "location": "Ainslie Bowery — 199 Bowery, New York, NY, New York, NY, us",
       "performer": "NY Young Professionals",
       "organizer": "NY Young Professionals",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Women In Tech Gather Mixer",
+      "url": "https://www.meetup.com/tech-gather-nyc/events/316698253/",
+      "startDate": "2026-10-08T23:30:00.000Z",
+      "endDate": "2026-10-08T23:30:00.000Z",
+      "location": "The Dynamo Room — 2 Pennsylvania Plaza, New York, NY 10121, USA, New York, NY, New York, NY, us",
+      "performer": "Tech Gather NYC",
+      "organizer": "Tech Gather NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,6 +57,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Your Identity?",
+      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
+      "startDate": "2026-10-10T21:00:00.000Z",
+      "endDate": "2026-10-10T21:00:00.000Z",
+      "location": "",
+      "performer": "Englewood Bible Study & Spiritual Truth Information.",
+      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "The Connection Experiment  (Oct 10, Online)",
       "url": "https://www.meetup.com/nyc-connection-experiment/events/316617105/",
       "startDate": "2026-10-11T00:00:00.000Z",
@@ -90,24 +79,35 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "[Postponed] [Tuesday] Discussion: First Impressions",
-      "url": "https://www.meetup.com/new-york-conversations/events/315847847/",
-      "startDate": "2026-10-13T23:00:00.000Z",
-      "endDate": "2026-10-13T23:00:00.000Z",
-      "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
-      "performer": "New York Interesting Conversations",
-      "organizer": "New York Interesting Conversations",
+      "name": "🍂 WEST VILLAGE GIRL CLUB COFFEE WALK",
+      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759960/",
+      "startDate": "2026-10-11T15:00:00.000Z",
+      "endDate": "2026-10-11T15:00:00.000Z",
+      "location": "Partners Coffee — 44 Charles Street, New York, NY, New York, NY, us",
+      "performer": "Girls Go Explore NYC",
+      "organizer": "Girls Go Explore NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "AI GLOBAL NETWORKING: Founders & Entrepreneurs #3 (ONLINE)",
-      "url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/316870339/",
-      "startDate": "2026-10-20T16:00:00.000Z",
-      "endDate": "2026-10-20T16:00:00.000Z",
+      "name": "CHANGED TO 10/11- Free Visit to Alexander Hamilton's Home! | NYC CONNECTS 🗽🖼🎨",
+      "url": "https://www.meetup.com/nycconnects-social/events/316456927/",
+      "startDate": "2026-10-11T16:15:00.000Z",
+      "endDate": "2026-10-11T16:15:00.000Z",
+      "location": "Hamilton Grange National Memorial — 414 W 141st St, New York, NY, New York, NY, us",
+      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Connection Experiment: Relationship Edition  (Oct 17, Online)",
+      "url": "https://www.meetup.com/nyc-connection-experiment/events/316774864/",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "endDate": "2026-10-18T00:00:00.000Z",
       "location": "",
-      "performer": "AI CIRCLE for Entrepreneurs",
-      "organizer": "AI CIRCLE for Entrepreneurs",
+      "performer": "The Connection Experiment NYC",
+      "organizer": "The Connection Experiment NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
