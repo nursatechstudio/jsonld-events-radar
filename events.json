@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-10-11T06:55:59.240Z",
+  "generatedAt": "2026-10-12T07:03:52.488Z",
   "events": [
-    {
-      "name": "🍂 WEST VILLAGE GIRL CLUB COFFEE WALK",
-      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759960/",
-      "startDate": "2026-10-11T15:00:00.000Z",
-      "endDate": "2026-10-11T15:00:00.000Z",
-      "location": "Partners Coffee — 44 Charles Street, New York, NY, New York, NY, us",
-      "performer": "Girls Go Explore NYC",
-      "organizer": "Girls Go Explore NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "CHANGED TO 10/11- Free Visit to Alexander Hamilton's Home! | NYC CONNECTS 🗽🖼🎨",
-      "url": "https://www.meetup.com/nycconnects-social/events/316456927/",
-      "startDate": "2026-10-11T16:15:00.000Z",
-      "endDate": "2026-10-11T16:15:00.000Z",
-      "location": "Hamilton Grange National Memorial — 414 W 141st St, New York, NY, New York, NY, us",
-      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
       "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
@@ -31,6 +9,17 @@
       "location": "",
       "performer": "Your Next Adventure Starts Here Meetup Group",
       "organizer": "Your Next Adventure Starts Here Meetup Group",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "New York Story Night #88",
+      "url": "https://www.meetup.com/new-york-story-night/events/316726871/",
+      "startDate": "2026-10-12T23:00:00.000Z",
+      "endDate": "2026-10-12T23:00:00.000Z",
+      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
+      "performer": "New York Story Night",
+      "organizer": "New York Story Night",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -46,13 +35,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Options Made Clear: Free 4-Week Live Online Class (Thursdays, 6:30 PM ET)",
-      "url": "https://www.meetup.com/options-trading-for-beginners-free-live-online-classes/events/316767562/",
-      "startDate": "2026-10-15T22:30:00.000Z",
-      "endDate": "2026-10-15T22:30:00.000Z",
-      "location": "",
-      "performer": "Options Trading for Beginners: Free Live Online Classes.",
-      "organizer": "Options Trading for Beginners: Free Live Online Classes.",
+      "name": "*In Person* Practice and improve your public speaking skills!",
+      "url": "https://www.meetup.com/greenspeakers/events/316862176/",
+      "startDate": "2026-10-14T22:15:00.000Z",
+      "endDate": "2026-10-14T22:15:00.000Z",
+      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
+      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,13 +68,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Connection Experiment: Relationship Edition  (Oct 17, Online)",
-      "url": "https://www.meetup.com/nyc-connection-experiment/events/316774864/",
-      "startDate": "2026-10-18T00:00:00.000Z",
-      "endDate": "2026-10-18T00:00:00.000Z",
-      "location": "",
-      "performer": "The Connection Experiment NYC",
-      "organizer": "The Connection Experiment NYC",
+      "name": "Sketch the Streets of Chinatown!",
+      "url": "https://www.meetup.com/sketching/events/316565521/",
+      "startDate": "2026-10-17T15:00:00.000Z",
+      "endDate": "2026-10-17T15:00:00.000Z",
+      "location": "Columbus Park Pavilion — Bayard St, New York, NY 10013, USA, New York, NY, New York, NY, us",
+      "performer": "Central Park Sketching & Art Meetup Group",
+      "organizer": "Central Park Sketching & Art Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -130,6 +119,17 @@
       "location": "7 West 34th Street — 7 W 34th St., New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "AWS New York | Official Meetup",
       "organizer": "AWS New York | Official Meetup",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Your Identity?",
+      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
+      "startDate": "2026-11-01T22:00:00.000Z",
+      "endDate": "2026-11-01T22:00:00.000Z",
+      "location": "",
+      "performer": "Englewood Bible Study & Spiritual Truth Information.",
+      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
