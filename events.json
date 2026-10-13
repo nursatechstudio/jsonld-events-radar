@@ -1,36 +1,25 @@
 {
-  "generatedAt": "2026-10-12T07:03:52.488Z",
+  "generatedAt": "2026-10-13T07:03:28.620Z",
   "events": [
     {
-      "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
-      "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
-      "startDate": "2026-10-12T23:00:00.000Z",
-      "endDate": "2026-10-12T23:00:00.000Z",
-      "location": "",
-      "performer": "Your Next Adventure Starts Here Meetup Group",
-      "organizer": "Your Next Adventure Starts Here Meetup Group",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "New York Story Night #88",
-      "url": "https://www.meetup.com/new-york-story-night/events/316726871/",
-      "startDate": "2026-10-12T23:00:00.000Z",
-      "endDate": "2026-10-12T23:00:00.000Z",
-      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
-      "performer": "New York Story Night",
-      "organizer": "New York Story Night",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "[Postponed] [Tuesday] Discussion: First Impressions",
+      "name": "[Tuesday] Discussion: First Impressions",
       "url": "https://www.meetup.com/new-york-conversations/events/315847847/",
       "startDate": "2026-10-13T23:00:00.000Z",
       "endDate": "2026-10-13T23:00:00.000Z",
       "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
       "performer": "New York Interesting Conversations",
       "organizer": "New York Interesting Conversations",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Claude 102: Personalization and Workspace",
+      "url": "https://www.meetup.com/nashuaug/events/316453041/",
+      "startDate": "2026-10-14T22:00:00.000Z",
+      "endDate": "2026-10-14T22:00:00.000Z",
+      "location": "",
+      "performer": "Nashua CLOUD .NET User Group",
+      "organizer": "Nashua CLOUD .NET User Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -42,6 +31,17 @@
       "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
       "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
       "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
+      "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
+      "startDate": "2026-10-15T23:00:00.000Z",
+      "endDate": "2026-10-15T23:00:00.000Z",
+      "location": "",
+      "performer": "Your Next Adventure Starts Here Meetup Group",
+      "organizer": "Your Next Adventure Starts Here Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -68,13 +68,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Sketch the Streets of Chinatown!",
-      "url": "https://www.meetup.com/sketching/events/316565521/",
+      "name": "Healing Your Inner Child Journey Starts Here 🌸",
+      "url": "https://www.meetup.com/therapeutic-healing-hypnosis-intuitive-group/events/316690300/",
       "startDate": "2026-10-17T15:00:00.000Z",
       "endDate": "2026-10-17T15:00:00.000Z",
-      "location": "Columbus Park Pavilion — Bayard St, New York, NY 10013, USA, New York, NY, New York, NY, us",
-      "performer": "Central Park Sketching & Art Meetup Group",
-      "organizer": "Central Park Sketching & Art Meetup Group",
+      "location": "",
+      "performer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
+      "organizer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,11 +101,22 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "From Small Talk to Real Friendship",
+      "url": "https://www.meetup.com/a-new-relationship/events/316921103/",
+      "startDate": "2026-10-23T23:00:00.000Z",
+      "endDate": "2026-10-23T23:00:00.000Z",
+      "location": "",
+      "performer": "A New Relationship",
+      "organizer": "A New Relationship",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Crimson & Gold: A Fall Walk in Central Park",
       "url": "https://www.meetup.com/nycfoodiesclub/events/316738846/",
       "startDate": "2026-10-24T18:00:00.000Z",
       "endDate": "2026-10-24T18:00:00.000Z",
-      "location": "The Shops at Columbus Circle — 10 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us",
+      "location": "Columbus Circle — 848 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us",
       "performer": "NYC Foodies Club",
       "organizer": "NYC Foodies Club",
       "ticketPrice": "",
@@ -119,17 +130,6 @@
       "location": "7 West 34th Street — 7 W 34th St., New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "AWS New York | Official Meetup",
       "organizer": "AWS New York | Official Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Your Identity?",
-      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
-      "startDate": "2026-11-01T22:00:00.000Z",
-      "endDate": "2026-11-01T22:00:00.000Z",
-      "location": "",
-      "performer": "Englewood Bible Study & Spiritual Truth Information.",
-      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
