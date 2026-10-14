@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-10-13T07:03:28.620Z",
+  "generatedAt": "2026-10-14T07:18:00.462Z",
   "events": [
     {
-      "name": "[Tuesday] Discussion: First Impressions",
-      "url": "https://www.meetup.com/new-york-conversations/events/315847847/",
-      "startDate": "2026-10-13T23:00:00.000Z",
-      "endDate": "2026-10-13T23:00:00.000Z",
-      "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
-      "performer": "New York Interesting Conversations",
-      "organizer": "New York Interesting Conversations",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Claude 102: Personalization and Workspace",
-      "url": "https://www.meetup.com/nashuaug/events/316453041/",
+      "name": "Founders, Investors & Talent Networking Mixer NYC",
+      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405211/",
       "startDate": "2026-10-14T22:00:00.000Z",
       "endDate": "2026-10-14T22:00:00.000Z",
-      "location": "",
-      "performer": "Nashua CLOUD .NET User Group",
-      "organizer": "Nashua CLOUD .NET User Group",
+      "location": "Unlisted — 3 Freeman Alley 11th Floor, New York, NY 10002, USA, New York, NY, New York, NY, us",
+      "performer": "Startup Networking & Founder Ecosystem | New York",
+      "organizer": "Startup Networking & Founder Ecosystem | New York",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -35,13 +24,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
-      "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
-      "startDate": "2026-10-15T23:00:00.000Z",
-      "endDate": "2026-10-15T23:00:00.000Z",
-      "location": "",
-      "performer": "Your Next Adventure Starts Here Meetup Group",
-      "organizer": "Your Next Adventure Starts Here Meetup Group",
+      "name": "17 Years on Wheels, 20 years at Google: Subways, Wheelchairs and Maps",
+      "url": "https://www.meetup.com/a11ynyc/events/316315125/",
+      "startDate": "2026-10-14T23:30:00.000Z",
+      "endDate": "2026-10-14T23:30:00.000Z",
+      "location": "72 Spring St — 72 Spring St, New York, NY, New York, NY, us",
+      "performer": "A11yNYC - Accessibility New York City",
+      "organizer": "A11yNYC - Accessibility New York City",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "New York City Local Singles Instant Zoom Meet",
+      "url": "https://www.meetup.com/the-local-enthusiasts-of-aquatic-life/events/316563068/",
+      "startDate": "2026-10-15T11:49:00.000Z",
+      "endDate": "2026-10-15T11:49:00.000Z",
+      "location": "299 South St — 299 South St, New York, NY, New York, NY, us",
+      "performer": "The Local Enthusiasts of Aquatic Life",
+      "organizer": "The Local Enthusiasts of Aquatic Life",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -68,13 +68,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Healing Your Inner Child Journey Starts Here 🌸",
-      "url": "https://www.meetup.com/therapeutic-healing-hypnosis-intuitive-group/events/316690300/",
-      "startDate": "2026-10-17T15:00:00.000Z",
-      "endDate": "2026-10-17T15:00:00.000Z",
-      "location": "",
-      "performer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
-      "organizer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
+      "name": "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch",
+      "url": "https://www.meetup.com/startup-pitch-networking-nyc/events/316527109/",
+      "startDate": "2026-10-19T23:00:00.000Z",
+      "endDate": "2026-10-19T23:00:00.000Z",
+      "location": "The Three Monkeys — 832 8th Ave, New York, NY 10019, USA, New York, NY, New York, NY, us",
+      "performer": "Startup Pitch & Networking – NYC",
+      "organizer": "Startup Pitch & Networking – NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,17 +101,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "From Small Talk to Real Friendship",
-      "url": "https://www.meetup.com/a-new-relationship/events/316921103/",
-      "startDate": "2026-10-23T23:00:00.000Z",
-      "endDate": "2026-10-23T23:00:00.000Z",
-      "location": "",
-      "performer": "A New Relationship",
-      "organizer": "A New Relationship",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "Crimson & Gold: A Fall Walk in Central Park",
       "url": "https://www.meetup.com/nycfoodiesclub/events/316738846/",
       "startDate": "2026-10-24T18:00:00.000Z",
@@ -130,6 +119,17 @@
       "location": "7 West 34th Street — 7 W 34th St., New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "AWS New York | Official Meetup",
       "organizer": "AWS New York | Official Meetup",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Your Identity?",
+      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
+      "startDate": "2026-11-01T22:00:00.000Z",
+      "endDate": "2026-11-01T22:00:00.000Z",
+      "location": "",
+      "performer": "Englewood Bible Study & Spiritual Truth Information.",
+      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
