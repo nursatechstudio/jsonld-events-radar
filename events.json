@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-10-14T07:18:00.462Z",
+  "generatedAt": "2026-10-15T07:18:23.945Z",
   "events": [
-    {
-      "name": "Founders, Investors & Talent Networking Mixer NYC",
-      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405211/",
-      "startDate": "2026-10-14T22:00:00.000Z",
-      "endDate": "2026-10-14T22:00:00.000Z",
-      "location": "Unlisted — 3 Freeman Alley 11th Floor, New York, NY 10002, USA, New York, NY, New York, NY, us",
-      "performer": "Startup Networking & Founder Ecosystem | New York",
-      "organizer": "Startup Networking & Founder Ecosystem | New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "*In Person* Practice and improve your public speaking skills!",
-      "url": "https://www.meetup.com/greenspeakers/events/316862176/",
-      "startDate": "2026-10-14T22:15:00.000Z",
-      "endDate": "2026-10-14T22:15:00.000Z",
-      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
-      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "17 Years on Wheels, 20 years at Google: Subways, Wheelchairs and Maps",
-      "url": "https://www.meetup.com/a11ynyc/events/316315125/",
-      "startDate": "2026-10-14T23:30:00.000Z",
-      "endDate": "2026-10-14T23:30:00.000Z",
-      "location": "72 Spring St — 72 Spring St, New York, NY, New York, NY, us",
-      "performer": "A11yNYC - Accessibility New York City",
-      "organizer": "A11yNYC - Accessibility New York City",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "New York City Local Singles Instant Zoom Meet",
       "url": "https://www.meetup.com/the-local-enthusiasts-of-aquatic-life/events/316563068/",
@@ -42,6 +9,28 @@
       "location": "299 South St — 299 South St, New York, NY, New York, NY, us",
       "performer": "The Local Enthusiasts of Aquatic Life",
       "organizer": "The Local Enthusiasts of Aquatic Life",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Options Made Clear: Free 4-Week Live Online Class (Thursdays, 6:30 PM ET)",
+      "url": "https://www.meetup.com/options-trading-for-beginners-free-live-online-classes/events/316767562/",
+      "startDate": "2026-10-15T22:30:00.000Z",
+      "endDate": "2026-10-15T22:30:00.000Z",
+      "location": "",
+      "performer": "Options Trading for Beginners: Free Live Online Classes.",
+      "organizer": "Options Trading for Beginners: Free Live Online Classes.",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
+      "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
+      "startDate": "2026-10-15T23:00:00.000Z",
+      "endDate": "2026-10-15T23:00:00.000Z",
+      "location": "",
+      "performer": "Your Next Adventure Starts Here Meetup Group",
+      "organizer": "Your Next Adventure Starts Here Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -57,13 +46,35 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "📢📢📢UPDATE💘 change to 10/16 Friday Night Singles 20s & 30s BAR CRAWL Social",
+      "name": "💞NYC CONNECTS💞20s 30s Singles & Friends Friday Bar Crawl",
       "url": "https://www.meetup.com/nycconnects-social/events/315863407/",
       "startDate": "2026-10-16T23:30:00.000Z",
       "endDate": "2026-10-16T23:30:00.000Z",
       "location": "Bowery Beer Garden — 93 Bowery St, New York, NY, New York, NY, us",
       "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
       "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Sketch the Streets of Chinatown!",
+      "url": "https://www.meetup.com/sketching/events/316565521/",
+      "startDate": "2026-10-17T15:00:00.000Z",
+      "endDate": "2026-10-17T15:00:00.000Z",
+      "location": "Columbus Park Pavilion — Bayard St, New York, NY 10013, USA, New York, NY, New York, NY, us",
+      "performer": "Central Park Sketching & Art Meetup Group",
+      "organizer": "Central Park Sketching & Art Meetup Group",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Healing Your Inner Child Journey Starts Here 🌸",
+      "url": "https://www.meetup.com/therapeutic-healing-hypnosis-intuitive-group/events/316690300/",
+      "startDate": "2026-10-17T15:00:00.000Z",
+      "endDate": "2026-10-17T15:00:00.000Z",
+      "location": "",
+      "performer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
+      "organizer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -119,17 +130,6 @@
       "location": "7 West 34th Street — 7 W 34th St., New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "AWS New York | Official Meetup",
       "organizer": "AWS New York | Official Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Your Identity?",
-      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
-      "startDate": "2026-11-01T22:00:00.000Z",
-      "endDate": "2026-11-01T22:00:00.000Z",
-      "location": "",
-      "performer": "Englewood Bible Study & Spiritual Truth Information.",
-      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
