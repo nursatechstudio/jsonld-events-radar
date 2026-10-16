@@ -1,36 +1,25 @@
 {
-  "generatedAt": "2026-10-15T07:18:23.945Z",
+  "generatedAt": "2026-10-16T07:16:37.670Z",
   "events": [
     {
-      "name": "New York City Local Singles Instant Zoom Meet",
-      "url": "https://www.meetup.com/the-local-enthusiasts-of-aquatic-life/events/316563068/",
-      "startDate": "2026-10-15T11:49:00.000Z",
-      "endDate": "2026-10-15T11:49:00.000Z",
-      "location": "299 South St — 299 South St, New York, NY, New York, NY, us",
+      "name": "New York City Evening Date Night Online for Serious Singles Social",
+      "url": "https://www.meetup.com/squeeze-box-social-and-accordion-collective/events/316563051/",
+      "startDate": "2026-10-16T10:42:00.000Z",
+      "endDate": "2026-10-16T10:42:00.000Z",
+      "location": "42B E 14th St — 42B E 14th St, New York City, NY, New York City, NY, us",
+      "performer": "Squeeze Box Social and Accordion Collective",
+      "organizer": "Squeeze Box Social and Accordion Collective",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Newark Verified Singles Match from Home",
+      "url": "https://www.meetup.com/the-local-enthusiasts-of-aquatic-life/events/316563101/",
+      "startDate": "2026-10-16T11:31:00.000Z",
+      "endDate": "2026-10-16T11:31:00.000Z",
+      "location": "View point — View point, New York, NY, New York, NY, us",
       "performer": "The Local Enthusiasts of Aquatic Life",
       "organizer": "The Local Enthusiasts of Aquatic Life",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Options Made Clear: Free 4-Week Live Online Class (Thursdays, 6:30 PM ET)",
-      "url": "https://www.meetup.com/options-trading-for-beginners-free-live-online-classes/events/316767562/",
-      "startDate": "2026-10-15T22:30:00.000Z",
-      "endDate": "2026-10-15T22:30:00.000Z",
-      "location": "",
-      "performer": "Options Trading for Beginners: Free Live Online Classes.",
-      "organizer": "Options Trading for Beginners: Free Live Online Classes.",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Your Adventure Starts Here - Welcome to our Travel Club!",
-      "url": "https://www.meetup.com/your-next-adventure-starts-here-meetup-group/events/316546707/",
-      "startDate": "2026-10-15T23:00:00.000Z",
-      "endDate": "2026-10-15T23:00:00.000Z",
-      "location": "",
-      "performer": "Your Next Adventure Starts Here Meetup Group",
-      "organizer": "Your Next Adventure Starts Here Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -68,17 +57,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Healing Your Inner Child Journey Starts Here 🌸",
-      "url": "https://www.meetup.com/therapeutic-healing-hypnosis-intuitive-group/events/316690300/",
-      "startDate": "2026-10-17T15:00:00.000Z",
-      "endDate": "2026-10-17T15:00:00.000Z",
-      "location": "",
-      "performer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
-      "organizer": "Therapeutic Hypnosis & Holistic Wellness Healing Circle",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch",
       "url": "https://www.meetup.com/startup-pitch-networking-nyc/events/316527109/",
       "startDate": "2026-10-19T23:00:00.000Z",
@@ -86,6 +64,17 @@
       "location": "The Three Monkeys — 832 8th Ave, New York, NY 10019, USA, New York, NY, New York, NY, us",
       "performer": "Startup Pitch & Networking – NYC",
       "organizer": "Startup Pitch & Networking – NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Chinese for Beginners: Learn Your First Chinese Conversation",
+      "url": "https://www.meetup.com/learn-chinese-with-dorothy-nyc/events/316744799/",
+      "startDate": "2026-10-21T23:00:00.000Z",
+      "endDate": "2026-10-21T23:00:00.000Z",
+      "location": "",
+      "performer": "Learn Chinese with Dorothy - NYC",
+      "organizer": "Learn Chinese with Dorothy - NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
