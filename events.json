@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-10-18T07:11:55.193Z",
+  "generatedAt": "2026-10-19T07:26:36.353Z",
   "events": [
-    {
-      "name": "CONCRETE TO TRAILS: Bus to Fall Foliage Day at Reeves Meadow Visitor Center",
-      "url": "https://www.meetup.com/amcnynj/events/316312468/",
-      "startDate": "2026-10-18T13:00:00.000Z",
-      "endDate": "2026-10-18T13:00:00.000Z",
-      "location": "George Washington Bridge Bus Terminal — W 179th and Fort Washington Ave, New York, NY, New York, NY, us",
-      "performer": "Appalachian Mountain Club New York-North Jersey",
-      "organizer": "Appalachian Mountain Club New York-North Jersey",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🎃 FOREST HILLS GIRL CLUB COFFEE WALK 🍂✨",
-      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759971/",
-      "startDate": "2026-10-18T15:00:00.000Z",
-      "endDate": "2026-10-18T15:00:00.000Z",
-      "location": "Pink Forest — 7201 Austin St, Forest Hills, NY 11375, Forest Hills, ny, Forest Hills, ny, us",
-      "performer": "Girls Go Explore NYC",
-      "organizer": "Girls Go Explore NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch",
       "url": "https://www.meetup.com/startup-pitch-networking-nyc/events/316527109/",
@@ -68,13 +46,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Wilds of Manhattan: Fort Tryon & Inwood Hill Parks + Local Neighborhoods",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316283309/",
-      "startDate": "2026-10-24T14:30:00.000Z",
-      "endDate": "2026-10-24T14:30:00.000Z",
-      "location": "St Frances Cabrini Shrine — 701 Fort Washington Ave, New York, NY, New York, NY, us",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
+      "name": "NY Professionals Happy Hour",
+      "url": "https://www.meetup.com/ny-young-professionals/events/316912404/",
+      "startDate": "2026-10-22T22:30:00.000Z",
+      "endDate": "2026-10-22T22:30:00.000Z",
+      "location": "Bella Union | Rooftop Bar — 411 3rd Ave, New York, NY, New York, NY, us",
+      "performer": "NY Young Professionals",
+      "organizer": "NY Young Professionals",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -90,13 +68,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Connection Experiment NYC (Oct 24, In Person)",
-      "url": "https://www.meetup.com/nyc-connection-experiment/events/316774895/",
-      "startDate": "2026-10-24T23:30:00.000Z",
-      "endDate": "2026-10-24T23:30:00.000Z",
-      "location": "Midtown Manhattan — Midtown Manhattan, New York, NY, USA, New York, NY, New York, NY, us",
-      "performer": "The Connection Experiment",
-      "organizer": "The Connection Experiment",
+      "name": "🍂 SOHO GIRL CLUB COFFEE WALK 👯‍♀️🎃 ☕️",
+      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759981/",
+      "startDate": "2026-10-25T15:00:00.000Z",
+      "endDate": "2026-10-25T15:00:00.000Z",
+      "location": "Ground Support Cafe — 399 West Broadway, New York, NY, New York, NY, us",
+      "performer": "Girls Go Explore NYC",
+      "organizer": "Girls Go Explore NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -123,13 +101,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Your Identity?",
-      "url": "https://www.meetup.com/englewood-stand-by-israel-meetup-group/events/316683139/",
+      "name": "Founders, Investors & Talent Networking Mixer NYC",
+      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405214/",
+      "startDate": "2026-10-28T22:00:00.000Z",
+      "endDate": "2026-10-28T22:00:00.000Z",
+      "location": "The Lobby Bar & Garden — 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us",
+      "performer": "Startup Networking & Founder Ecosystem | New York",
+      "organizer": "Startup Networking & Founder Ecosystem | New York",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Gathering",
+      "url": "https://www.meetup.com/meetup-group-ljobnfki/events/316953455/",
       "startDate": "2026-11-01T22:00:00.000Z",
       "endDate": "2026-11-01T22:00:00.000Z",
       "location": "",
-      "performer": "Englewood Bible Study & Spiritual Truth Information.",
-      "organizer": "Englewood Bible Study & Spiritual Truth Information.",
+      "performer": "Let’s Talk About It 💬",
+      "organizer": "Let’s Talk About It 💬",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
