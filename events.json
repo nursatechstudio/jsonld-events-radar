@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-10-19T07:26:36.353Z",
+  "generatedAt": "2026-10-20T07:19:42.399Z",
   "events": [
     {
-      "name": "Women in Tech, Fintech, AI, Startups, Networking Event & Elevator Pitch",
-      "url": "https://www.meetup.com/startup-pitch-networking-nyc/events/316527109/",
-      "startDate": "2026-10-19T23:00:00.000Z",
-      "endDate": "2026-10-19T23:00:00.000Z",
-      "location": "The Three Monkeys — 832 8th Ave, New York, NY 10019, USA, New York, NY, New York, NY, us",
-      "performer": "Startup Pitch & Networking – NYC",
-      "organizer": "Startup Pitch & Networking – NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "New York Story Night #89",
-      "url": "https://www.meetup.com/new-york-story-night/events/316726876/",
-      "startDate": "2026-10-19T23:00:00.000Z",
-      "endDate": "2026-10-19T23:00:00.000Z",
-      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
-      "performer": "New York Story Night",
-      "organizer": "New York Story Night",
+      "name": "Free Crochet for Beginners Class",
+      "url": "https://www.meetup.com/learntocrochet_yoc/events/316937574/",
+      "startDate": "2026-10-21T23:00:00.000Z",
+      "endDate": "2026-10-21T23:00:00.000Z",
+      "location": "",
+      "performer": "Online Crochet Classes (Beginner to Advanced)",
+      "organizer": "Online Crochet Classes (Beginner to Advanced)",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -57,6 +46,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Tech Gather NYC October Meetup",
+      "url": "https://www.meetup.com/tech-gather-nyc/events/316941025/",
+      "startDate": "2026-10-22T23:00:00.000Z",
+      "endDate": "2026-10-22T23:00:00.000Z",
+      "location": "The Irish American Pub — 17 John St, New York, NY 10038, USA, New York, NY, New York, NY, us",
+      "performer": "Tech Gather NYC",
+      "organizer": "Tech Gather NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "(ONLINE) Get Sh*t Done Club: Saturday Work Session 💻",
+      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/316928203/",
+      "startDate": "2026-10-24T14:00:00.000Z",
+      "endDate": "2026-10-24T14:00:00.000Z",
+      "location": "",
+      "performer": "Get Sh*t Done Club",
+      "organizer": "Get Sh*t Done Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Crimson & Gold: A Fall Walk in Central Park",
       "url": "https://www.meetup.com/nycfoodiesclub/events/316738846/",
       "startDate": "2026-10-24T18:00:00.000Z",
@@ -64,17 +75,6 @@
       "location": "Columbus Circle — 848 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us",
       "performer": "NYC Foodies Club",
       "organizer": "NYC Foodies Club",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🍂 SOHO GIRL CLUB COFFEE WALK 👯‍♀️🎃 ☕️",
-      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759981/",
-      "startDate": "2026-10-25T15:00:00.000Z",
-      "endDate": "2026-10-25T15:00:00.000Z",
-      "location": "Ground Support Cafe — 399 West Broadway, New York, NY, New York, NY, us",
-      "performer": "Girls Go Explore NYC",
-      "organizer": "Girls Go Explore NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -112,13 +112,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Gathering",
-      "url": "https://www.meetup.com/meetup-group-ljobnfki/events/316953455/",
-      "startDate": "2026-11-01T22:00:00.000Z",
-      "endDate": "2026-11-01T22:00:00.000Z",
-      "location": "",
-      "performer": "Let’s Talk About It 💬",
-      "organizer": "Let’s Talk About It 💬",
+      "name": "NYC Code and Coffee 89 at Datadog HQ",
+      "url": "https://www.meetup.com/new-york-code-coffee/events/317039137/",
+      "startDate": "2026-11-08T19:00:00.000Z",
+      "endDate": "2026-11-08T19:00:00.000Z",
+      "location": "620 8th Ave, Manhattan, NY 10018 — 620 8th Ave, Manhattan, NY 10018, Manhattan, Ne, Manhattan, Ne, us",
+      "performer": "New York Code & Coffee",
+      "organizer": "New York Code & Coffee",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
