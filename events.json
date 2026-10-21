@@ -1,6 +1,17 @@
 {
-  "generatedAt": "2026-10-20T07:19:42.399Z",
+  "generatedAt": "2026-10-21T07:22:28.938Z",
   "events": [
+    {
+      "name": "ADHD & Money: Building a Healthier Relationship with Your Finances",
+      "url": "https://www.meetup.com/north-carolina-adults-with-adhd-education-group/events/316707136/",
+      "startDate": "2026-10-21T21:00:00.000Z",
+      "endDate": "2026-10-21T21:00:00.000Z",
+      "location": "",
+      "performer": "Adults with ADHD - Education Group",
+      "organizer": "Adults with ADHD - Education Group",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
     {
       "name": "Free Crochet for Beginners Class",
       "url": "https://www.meetup.com/learntocrochet_yoc/events/316937574/",
@@ -35,35 +46,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "NY Professionals Happy Hour",
-      "url": "https://www.meetup.com/ny-young-professionals/events/316912404/",
-      "startDate": "2026-10-22T22:30:00.000Z",
-      "endDate": "2026-10-22T22:30:00.000Z",
-      "location": "Bella Union | Rooftop Bar — 411 3rd Ave, New York, NY, New York, NY, us",
-      "performer": "NY Young Professionals",
-      "organizer": "NY Young Professionals",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Tech Gather NYC October Meetup",
-      "url": "https://www.meetup.com/tech-gather-nyc/events/316941025/",
-      "startDate": "2026-10-22T23:00:00.000Z",
-      "endDate": "2026-10-22T23:00:00.000Z",
-      "location": "The Irish American Pub — 17 John St, New York, NY 10038, USA, New York, NY, New York, NY, us",
-      "performer": "Tech Gather NYC",
-      "organizer": "Tech Gather NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "(ONLINE) Get Sh*t Done Club: Saturday Work Session 💻",
-      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/316928203/",
-      "startDate": "2026-10-24T14:00:00.000Z",
-      "endDate": "2026-10-24T14:00:00.000Z",
+      "name": "Leanzar Stockley - Rebuild Trust & Intimacy in Your Relationships",
+      "url": "https://www.meetup.com/online-support-meetup-group/events/316833811/",
+      "startDate": "2026-10-24T00:00:00.000Z",
+      "endDate": "2026-10-24T00:00:00.000Z",
       "location": "",
-      "performer": "Get Sh*t Done Club",
-      "organizer": "Get Sh*t Done Club",
+      "performer": "Online Support Meetup Group",
+      "organizer": "Online Support Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -75,6 +64,28 @@
       "location": "Columbus Circle — 848 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us",
       "performer": "NYC Foodies Club",
       "organizer": "NYC Foodies Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🍂 SOHO GIRL CLUB COFFEE WALK 👯‍♀️🎃 ☕️",
+      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759981/",
+      "startDate": "2026-10-25T15:00:00.000Z",
+      "endDate": "2026-10-25T15:00:00.000Z",
+      "location": "Ground Support Cafe — 399 West Broadway, New York, NY, New York, NY, us",
+      "performer": "Girls Go Explore NYC",
+      "organizer": "Girls Go Explore NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Matrimonial Matchmaking Event for Indian Singles in USA",
+      "url": "https://www.meetup.com/indian-speed-dating-matchmaking-events-in-usa/events/316248016/",
+      "startDate": "2026-10-25T22:30:00.000Z",
+      "endDate": "2026-10-25T22:30:00.000Z",
+      "location": "",
+      "performer": "Indian Speed Dating & Matchmaking Events in USA",
+      "organizer": "Indian Speed Dating & Matchmaking Events in USA",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
