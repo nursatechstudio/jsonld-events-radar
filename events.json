@@ -1,61 +1,6 @@
 {
-  "generatedAt": "2026-10-22T07:23:44.354Z",
+  "generatedAt": "2026-10-23T07:22:24.753Z",
   "events": [
-    {
-      "name": "Move Your Career Forward | Virtual Small Group Coaching",
-      "url": "https://www.meetup.com/building-your-career-one-step-at-a-time-nyc/events/317030025/",
-      "startDate": "2026-10-22T21:30:00.000Z",
-      "endDate": "2026-10-22T21:30:00.000Z",
-      "location": "",
-      "performer": "Building Your Career One Step at A Time (Virtual / NYC)",
-      "organizer": "Building Your Career One Step at A Time (Virtual / NYC)",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Stripe developer meetup New York, October 2026 (In Person)",
-      "url": "https://www.meetup.com/stripe-new-york/events/316293021/",
-      "startDate": "2026-10-22T22:00:00.000Z",
-      "endDate": "2026-10-22T22:00:00.000Z",
-      "location": "Stripe Office NY — 28 Liberty St. Fl. 48  New York, NY 10005, New York, NY, New York, NY, us",
-      "performer": "Stripe New York",
-      "organizer": "Stripe New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Rust NYC w/Bryan Cantrill - Code Matters: Reflections on Rust in the LLM Age",
-      "url": "https://www.meetup.com/rust-nyc/events/316901518/",
-      "startDate": "2026-10-22T22:30:00.000Z",
-      "endDate": "2026-10-22T22:30:00.000Z",
-      "location": "Datadog — New York Times Bldg, 620 8th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "Rust NYC",
-      "organizer": "Rust NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "NY Professionals Happy Hour",
-      "url": "https://www.meetup.com/ny-young-professionals/events/316912404/",
-      "startDate": "2026-10-22T22:30:00.000Z",
-      "endDate": "2026-10-22T22:30:00.000Z",
-      "location": "Bella Union | Rooftop Bar — 411 3rd Ave, New York, NY, New York, NY, us",
-      "performer": "NY Young Professionals",
-      "organizer": "NY Young Professionals",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Tech Gather NYC October Meetup",
-      "url": "https://www.meetup.com/tech-gather-nyc/events/316941025/",
-      "startDate": "2026-10-22T23:00:00.000Z",
-      "endDate": "2026-10-22T23:00:00.000Z",
-      "location": "The Irish American Pub — 17 John St, New York, NY 10038, USA, New York, NY, New York, NY, us",
-      "performer": "Tech Gather NYC",
-      "organizer": "Tech Gather NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "From Small Talk to Real Friendship",
       "url": "https://www.meetup.com/a-new-relationship/events/316921103/",
@@ -64,6 +9,28 @@
       "location": "",
       "performer": "A New Relationship",
       "organizer": "A New Relationship",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "(ONLINE) Get Sh*t Done Club: Saturday Work Session 💻",
+      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/316928203/",
+      "startDate": "2026-10-24T14:00:00.000Z",
+      "endDate": "2026-10-24T14:00:00.000Z",
+      "location": "",
+      "performer": "Get Sh*t Done Club",
+      "organizer": "Get Sh*t Done Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Wilds of Manhattan: Fort Tryon & Inwood Hill Parks + Local Neighborhoods",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316283309/",
+      "startDate": "2026-10-24T14:30:00.000Z",
+      "endDate": "2026-10-24T14:30:00.000Z",
+      "location": "St Frances Cabrini Shrine — 701 Fort Washington Ave, New York, NY, New York, NY, us",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -112,6 +79,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Spatial Analytics with Python 🌎 + Lightning Talks ⚡️",
+      "url": "https://www.meetup.com/pydatanyc/events/316912352/",
+      "startDate": "2026-10-27T22:30:00.000Z",
+      "endDate": "2026-10-27T22:30:00.000Z",
+      "location": "CUNY Graduate Center — 365 5th Ave, New York, NY 10016, USA, New York, NY, New York, NY, us",
+      "performer": "PyData NYC",
+      "organizer": "PyData NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Founders, Investors & Talent Networking Mixer NYC",
       "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405214/",
       "startDate": "2026-10-28T22:00:00.000Z",
@@ -119,6 +97,17 @@
       "location": "The Lobby Bar & Garden — 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "Startup Networking & Founder Ecosystem | New York",
       "organizer": "Startup Networking & Founder Ecosystem | New York",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "NYC Photo Walk: East Village | Halloween Spirit",
+      "url": "https://www.meetup.com/hazenyc/events/316842241/",
+      "startDate": "2026-10-31T16:30:00.000Z",
+      "endDate": "2026-10-31T16:30:00.000Z",
+      "location": "PlantShed Cafe — 193 2nd Ave, New York, NY 10003, USA, New York, NY, New York, NY, us",
+      "performer": "Haze Photo Club NYC",
+      "organizer": "Haze Photo Club NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
