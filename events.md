@@ -1,16 +1,18 @@
 # Upcoming Events
 
-Collected 2026-10-24T07:15:50.878Z by [JSON-LD Events Radar](https://github.com/nursatechstudio/jsonld-events-radar).
+Collected 2026-10-25T07:17:15.188Z by [JSON-LD Events Radar](https://github.com/nursatechstudio/jsonld-events-radar).
 
 | Start date | Event | Location | Ticket price |
 | --- | --- | --- | --- |
-| 2026-10-24T15:00:00.000Z | [Free hiphop dance class!](https://www.meetup.com/funeventsinny/events/315021945/) | X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US | Not listed |
-| 2026-10-24T16:00:00.000Z | [Outdoor Badminton/Pickleball in Central Park](https://www.meetup.com/nyc-outdoor-badminton/events/316375868/) | The Volley Ball Courts - Central Park Bandshell — Central Park Driveway, New York, NY, New York, NY, us | Not listed |
-| 2026-10-24T18:00:00.000Z | [Crimson & Gold: A Fall Walk in Central Park](https://www.meetup.com/nycfoodiesclub/events/316738846/) | Columbus Circle — 848 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us | Not listed |
+| 2026-10-25T14:00:00.000Z | [Hudson Valley Fall Foliage Cruise w Buffet Dinner. Sunday. Oct 25, 2026](https://www.meetup.com/gilligansadventures/events/311513591/) | Whole Foods Market — 300 Bergen Town Ctr, Paramus, NJ, Paramus, NJ, US | Not listed |
 | 2026-10-25T15:00:00.000Z | [🍂 SOHO GIRL CLUB COFFEE WALK 👯‍♀️🎃 ☕️](https://www.meetup.com/girlsgoexplorenyc/events/316759981/) | Ground Support Cafe — 399 West Broadway, New York, NY, New York, NY, us | Not listed |
+| 2026-10-25T15:00:00.000Z | [Uptown Reading Morning (Inwood)](https://www.meetup.com/silentbookclubnyc/events/316800395/) | Buunni Coffee - Inwood — 4961 Broadway, New York, NY, New York, NY, us | Not listed |
 | 2026-10-26T20:30:00.000Z | [Building a Model Evaluation Practice for Production AI](https://www.meetup.com/aws-nyc/events/316007124/) | 7 West 34th Street — 7 W 34th St., New York, NY 10001, USA, New York, NY, New York, NY, us | Not listed |
-| 2026-10-27T16:00:00.000Z | [AI GLOBAL NETWORKING: Founders & Entrepreneurs #3 (ONLINE)](https://www.meetup.com/ai-circle-for-entrepreneurs/events/316870339/) | Not listed | Not listed |
+| 2026-10-27T22:15:00.000Z | [*In Person* Practice and improve your public speaking skills!](https://www.meetup.com/greenspeakers/events/316862177/) | Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US | Not listed |
+| 2026-10-27T22:30:00.000Z | [Spatial Analytics with Python 🌎 + Lightning Talks ⚡️](https://www.meetup.com/pydatanyc/events/316912352/) | CUNY Graduate Center — 365 5th Ave, New York, NY 10016, USA, New York, NY, New York, NY, us | Not listed |
 | 2026-10-28T22:00:00.000Z | [Founders, Investors & Talent Networking Mixer NYC](https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405214/) | The Lobby Bar & Garden — 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us | Not listed |
 | 2026-10-31T14:00:00.000Z | [Women's ADHD Sharing Circle](https://www.meetup.com/awaken-and-transcend-adhd-support-group/events/316072455/) | Not listed | Not listed |
-| 2026-11-01T22:00:00.000Z | [The Gathering](https://www.meetup.com/meetup-group-ljobnfki/events/316953455/) | Not listed | Not listed |
+| 2026-10-31T16:30:00.000Z | [NYC Photo Walk: East Village \| Halloween Spirit](https://www.meetup.com/hazenyc/events/316842241/) | PlantShed Cafe — 193 2nd Ave, New York, NY 10003, USA, New York, NY, New York, NY, us | Not listed |
+| 2026-10-31T20:00:00.000Z | [🎃🎤🥞💃 THE HALLOWEEN TRIFECTA: Karaoke, Pancakes & Optional Dancing! 👻🔥](https://www.meetup.com/socially-awkward-but-im-trying/events/316865284/) | Planet Rose — 219 Avenue A, New York, NY, New York, NY, us | Not listed |
+| 2026-10-31T20:30:00.000Z | [Halloween Bar Crawl - Hoboken](https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316145065/) | The Shepherd & the Knucklehead of Hoboken — 1313 Willow Ave, Hoboken, NJ, Hoboken, NJ, us | Not listed |
 | 2026-11-08T19:00:00.000Z | [NYC Code and Coffee 89 at Datadog HQ](https://www.meetup.com/new-york-code-coffee/events/317039137/) | 620 8th Ave, Manhattan, NY 10018 — 620 8th Ave, Manhattan, NY 10018, Manhattan, Ne, Manhattan, Ne, us | Not listed |

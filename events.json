@@ -1,36 +1,14 @@
 {
-  "generatedAt": "2026-10-24T07:15:50.877Z",
+  "generatedAt": "2026-10-25T07:17:15.187Z",
   "events": [
     {
-      "name": "Free hiphop dance class!",
-      "url": "https://www.meetup.com/funeventsinny/events/315021945/",
-      "startDate": "2026-10-24T15:00:00.000Z",
-      "endDate": "2026-10-24T15:00:00.000Z",
-      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
-      "performer": "Fun events in NY!",
-      "organizer": "Fun events in NY!",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Outdoor Badminton/Pickleball in Central Park",
-      "url": "https://www.meetup.com/nyc-outdoor-badminton/events/316375868/",
-      "startDate": "2026-10-24T16:00:00.000Z",
-      "endDate": "2026-10-24T16:00:00.000Z",
-      "location": "The Volley Ball Courts - Central Park Bandshell — Central Park Driveway, New York, NY, New York, NY, us",
-      "performer": "NYC Outdoor Badminton",
-      "organizer": "NYC Outdoor Badminton",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Crimson & Gold: A Fall Walk in Central Park",
-      "url": "https://www.meetup.com/nycfoodiesclub/events/316738846/",
-      "startDate": "2026-10-24T18:00:00.000Z",
-      "endDate": "2026-10-24T18:00:00.000Z",
-      "location": "Columbus Circle — 848 Columbus Cir, New York, NY 10019, USA, New York, NY, New York, NY, us",
-      "performer": "NYC Foodies Club",
-      "organizer": "NYC Foodies Club",
+      "name": "Hudson Valley Fall Foliage Cruise w Buffet Dinner. Sunday. Oct 25, 2026",
+      "url": "https://www.meetup.com/gilligansadventures/events/311513591/",
+      "startDate": "2026-10-25T14:00:00.000Z",
+      "endDate": "2026-10-25T14:00:00.000Z",
+      "location": "Whole Foods Market — 300 Bergen Town Ctr, Paramus, NJ, Paramus, NJ, US",
+      "performer": "Gilligan's Adventures",
+      "organizer": "Gilligan's Adventures",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -46,6 +24,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Uptown Reading Morning (Inwood)",
+      "url": "https://www.meetup.com/silentbookclubnyc/events/316800395/",
+      "startDate": "2026-10-25T15:00:00.000Z",
+      "endDate": "2026-10-25T15:00:00.000Z",
+      "location": "Buunni Coffee - Inwood — 4961 Broadway, New York, NY, New York, NY, us",
+      "performer": "Silent Book Club NYC",
+      "organizer": "Silent Book Club NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Building a Model Evaluation Practice for Production AI",
       "url": "https://www.meetup.com/aws-nyc/events/316007124/",
       "startDate": "2026-10-26T20:30:00.000Z",
@@ -57,13 +46,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "AI GLOBAL NETWORKING: Founders & Entrepreneurs #3 (ONLINE)",
-      "url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/316870339/",
-      "startDate": "2026-10-27T16:00:00.000Z",
-      "endDate": "2026-10-27T16:00:00.000Z",
-      "location": "",
-      "performer": "AI CIRCLE for Entrepreneurs",
-      "organizer": "AI CIRCLE for Entrepreneurs",
+      "name": "*In Person* Practice and improve your public speaking skills!",
+      "url": "https://www.meetup.com/greenspeakers/events/316862177/",
+      "startDate": "2026-10-27T22:15:00.000Z",
+      "endDate": "2026-10-27T22:15:00.000Z",
+      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
+      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Spatial Analytics with Python 🌎 + Lightning Talks ⚡️",
+      "url": "https://www.meetup.com/pydatanyc/events/316912352/",
+      "startDate": "2026-10-27T22:30:00.000Z",
+      "endDate": "2026-10-27T22:30:00.000Z",
+      "location": "CUNY Graduate Center — 365 5th Ave, New York, NY 10016, USA, New York, NY, New York, NY, us",
+      "performer": "PyData NYC",
+      "organizer": "PyData NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -90,13 +90,35 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Gathering",
-      "url": "https://www.meetup.com/meetup-group-ljobnfki/events/316953455/",
-      "startDate": "2026-11-01T22:00:00.000Z",
-      "endDate": "2026-11-01T22:00:00.000Z",
-      "location": "",
-      "performer": "Let’s Talk About It 💬",
-      "organizer": "Let’s Talk About It 💬",
+      "name": "NYC Photo Walk: East Village | Halloween Spirit",
+      "url": "https://www.meetup.com/hazenyc/events/316842241/",
+      "startDate": "2026-10-31T16:30:00.000Z",
+      "endDate": "2026-10-31T16:30:00.000Z",
+      "location": "PlantShed Cafe — 193 2nd Ave, New York, NY 10003, USA, New York, NY, New York, NY, us",
+      "performer": "Haze Photo Club NYC",
+      "organizer": "Haze Photo Club NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🎃🎤🥞💃 THE HALLOWEEN TRIFECTA: Karaoke, Pancakes & Optional Dancing! 👻🔥",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316865284/",
+      "startDate": "2026-10-31T20:00:00.000Z",
+      "endDate": "2026-10-31T20:00:00.000Z",
+      "location": "Planet Rose — 219 Avenue A, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Halloween Bar Crawl - Hoboken",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316145065/",
+      "startDate": "2026-10-31T20:30:00.000Z",
+      "endDate": "2026-10-31T20:30:00.000Z",
+      "location": "The Shepherd & the Knucklehead of Hoboken — 1313 Willow Ave, Hoboken, NJ, Hoboken, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
