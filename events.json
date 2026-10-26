@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-10-25T07:17:15.187Z",
+  "generatedAt": "2026-10-26T07:30:21.531Z",
   "events": [
-    {
-      "name": "Hudson Valley Fall Foliage Cruise w Buffet Dinner. Sunday. Oct 25, 2026",
-      "url": "https://www.meetup.com/gilligansadventures/events/311513591/",
-      "startDate": "2026-10-25T14:00:00.000Z",
-      "endDate": "2026-10-25T14:00:00.000Z",
-      "location": "Whole Foods Market — 300 Bergen Town Ctr, Paramus, NJ, Paramus, NJ, US",
-      "performer": "Gilligan's Adventures",
-      "organizer": "Gilligan's Adventures",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🍂 SOHO GIRL CLUB COFFEE WALK 👯‍♀️🎃 ☕️",
-      "url": "https://www.meetup.com/girlsgoexplorenyc/events/316759981/",
-      "startDate": "2026-10-25T15:00:00.000Z",
-      "endDate": "2026-10-25T15:00:00.000Z",
-      "location": "Ground Support Cafe — 399 West Broadway, New York, NY, New York, NY, us",
-      "performer": "Girls Go Explore NYC",
-      "organizer": "Girls Go Explore NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Uptown Reading Morning (Inwood)",
-      "url": "https://www.meetup.com/silentbookclubnyc/events/316800395/",
-      "startDate": "2026-10-25T15:00:00.000Z",
-      "endDate": "2026-10-25T15:00:00.000Z",
-      "location": "Buunni Coffee - Inwood — 4961 Broadway, New York, NY, New York, NY, us",
-      "performer": "Silent Book Club NYC",
-      "organizer": "Silent Book Club NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Building a Model Evaluation Practice for Production AI",
       "url": "https://www.meetup.com/aws-nyc/events/316007124/",
@@ -79,6 +46,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "NYC Tech Mixer 2026",
+      "url": "https://www.meetup.com/nyctechmixer/events/316307768/",
+      "startDate": "2026-10-29T22:00:00.000Z",
+      "endDate": "2026-10-29T22:00:00.000Z",
+      "location": "The Williamsburg Hotel Bar — 96 Wythe Ave, Brooklyn, NY, Brooklyn, NY, us",
+      "performer": "NYC Tech Meetup",
+      "organizer": "NYC Tech Meetup",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Women's ADHD Sharing Circle",
       "url": "https://www.meetup.com/awaken-and-transcend-adhd-support-group/events/316072455/",
       "startDate": "2026-10-31T14:00:00.000Z",
@@ -119,6 +97,28 @@
       "location": "The Shepherd & the Knucklehead of Hoboken — 1313 Willow Ave, Hoboken, NJ, Hoboken, NJ, us",
       "performer": "North Jersey Bowling, Volleyball, Tennis & More",
       "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Future of Digital Privacy — An Open Global Discussion",
+      "url": "https://www.meetup.com/global-privacy-digital-freedom/events/316764141/",
+      "startDate": "2026-11-04T00:00:00.000Z",
+      "endDate": "2026-11-04T00:00:00.000Z",
+      "location": "",
+      "performer": "Global Privacy & Digital Freedom",
+      "organizer": "Global Privacy & Digital Freedom",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Chelsea Art Gallery Crawl!",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
+      "startDate": "2026-11-07T19:00:00.000Z",
+      "endDate": "2026-11-07T19:00:00.000Z",
+      "location": "Marquee New York — 289 10th Avenue, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
