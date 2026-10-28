@@ -1,36 +1,14 @@
 {
-  "generatedAt": "2026-10-27T07:25:48.374Z",
+  "generatedAt": "2026-10-28T07:36:56.211Z",
   "events": [
     {
-      "name": "AI GLOBAL NETWORKING: Founders & Entrepreneurs #3 (ONLINE)",
-      "url": "https://www.meetup.com/ai-circle-for-entrepreneurs/events/316870339/",
-      "startDate": "2026-10-27T16:00:00.000Z",
-      "endDate": "2026-10-27T16:00:00.000Z",
+      "name": "Intro to Model Context Protocol (MCP) ~ Tracey Kroll",
+      "url": "https://www.meetup.com/dbavug/events/316960760/",
+      "startDate": "2026-10-28T19:00:00.000Z",
+      "endDate": "2026-10-28T19:00:00.000Z",
       "location": "",
-      "performer": "AI CIRCLE for Entrepreneurs",
-      "organizer": "AI CIRCLE for Entrepreneurs",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "*In Person* Practice and improve your public speaking skills!",
-      "url": "https://www.meetup.com/greenspeakers/events/316862177/",
-      "startDate": "2026-10-27T22:15:00.000Z",
-      "endDate": "2026-10-27T22:15:00.000Z",
-      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
-      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Spatial Analytics with Python 🌎 + Lightning Talks ⚡️",
-      "url": "https://www.meetup.com/pydatanyc/events/316912352/",
-      "startDate": "2026-10-27T22:30:00.000Z",
-      "endDate": "2026-10-27T22:30:00.000Z",
-      "location": "CUNY Graduate Center — 365 5th Ave, New York, NY 10016, USA, New York, NY, New York, NY, us",
-      "performer": "PyData NYC",
-      "organizer": "PyData NYC",
+      "performer": "Database Professionals Virtual Meetup Group",
+      "organizer": "Database Professionals Virtual Meetup Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -46,13 +24,35 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "NYC Tech Mixer 2026",
-      "url": "https://www.meetup.com/nyctechmixer/events/316307768/",
-      "startDate": "2026-10-29T22:00:00.000Z",
-      "endDate": "2026-10-29T22:00:00.000Z",
-      "location": "The Williamsburg Hotel Bar — 96 Wythe Ave, Brooklyn, NY, Brooklyn, NY, us",
-      "performer": "NYC Tech Meetup",
-      "organizer": "NYC Tech Meetup",
+      "name": "Attract Real Love Hypnosis",
+      "url": "https://www.meetup.com/reprogram-your-subconscious-group/events/317131989/",
+      "startDate": "2026-10-28T23:00:00.000Z",
+      "endDate": "2026-10-28T23:00:00.000Z",
+      "location": "",
+      "performer": "The Bridge - Hypnotherapy",
+      "organizer": "The Bridge - Hypnotherapy",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "How to Ship Code Like a Team of 5: A Year Later with Kieran Klaassen (Every.to)",
+      "url": "https://www.meetup.com/serverless-toronto/events/316686656/",
+      "startDate": "2026-10-30T16:00:00.000Z",
+      "endDate": "2026-10-30T16:00:00.000Z",
+      "location": "",
+      "performer": "Serverless Toronto",
+      "organizer": "Serverless Toronto",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Start your weekend at The New York Historical's library",
+      "url": "https://www.meetup.com/silentbookclubnyc/events/317054873/",
+      "startDate": "2026-10-30T22:30:00.000Z",
+      "endDate": "2026-10-30T22:30:00.000Z",
+      "location": "New-York Historical Society Museum & Library — 170 Central Park West, New York, NY, New York, NY, us",
+      "performer": "Silent Book Club NYC",
+      "organizer": "Silent Book Club NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,17 +101,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Networking",
-      "url": "https://www.meetup.com/meetup-group-liwigrzd/events/317063701/",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "endDate": "2026-11-03T00:00:00.000Z",
-      "location": "",
-      "performer": "Networking",
-      "organizer": "Networking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "Chelsea Art Gallery Crawl!",
       "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
       "startDate": "2026-11-07T19:00:00.000Z",
@@ -130,6 +119,17 @@
       "location": "620 8th Ave, Manhattan, NY 10018 — 620 8th Ave, Manhattan, NY 10018, Manhattan, Ne, Manhattan, Ne, us",
       "performer": "New York Code & Coffee",
       "organizer": "New York Code & Coffee",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Media/Advertising Professionals Meet",
+      "url": "https://www.meetup.com/ny-media-and-advertising-group/events/316869227/",
+      "startDate": "2026-11-10T23:00:00.000Z",
+      "endDate": "2026-11-10T23:00:00.000Z",
+      "location": "Grey Bar and Restaurant — 43 West 26th Street, New York, NY, New York, NY, us",
+      "performer": "NY Media and Advertising Group",
+      "organizer": "NY Media and Advertising Group",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
