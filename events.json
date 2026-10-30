@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-10-29T07:39:11.876Z",
+  "generatedAt": "2026-10-30T07:38:47.335Z",
   "events": [
-    {
-      "name": "Hypnotise Yourself",
-      "url": "https://www.meetup.com/retreatsaroundtheworld/events/316956655/",
-      "startDate": "2026-10-29T21:00:00.000Z",
-      "endDate": "2026-10-29T21:00:00.000Z",
-      "location": "",
-      "performer": "Retreats Around The World",
-      "organizer": "Retreats Around The World",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "NYC Tech Mixer 2026",
-      "url": "https://www.meetup.com/nyctechmixer/events/316307768/",
-      "startDate": "2026-10-29T22:00:00.000Z",
-      "endDate": "2026-10-29T22:00:00.000Z",
-      "location": "The Williamsburg Hotel Bar — 96 Wythe Ave, Brooklyn, NY, Brooklyn, NY, us",
-      "performer": "NYC Tech Meetup",
-      "organizer": "NYC Tech Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "How to Ship Code Like a Team of 5: A Year Later with Kieran Klaassen (Every.to)",
       "url": "https://www.meetup.com/serverless-toronto/events/316686656/",
@@ -31,6 +9,28 @@
       "location": "",
       "performer": "Serverless Toronto",
       "organizer": "Serverless Toronto",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🎃👻 230 FIFTH HALLOWEEN BASH — ROOFTOP PARTY, COSTUMES & DANCING! 🕺💃🌃",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316865383/",
+      "startDate": "2026-10-30T22:30:00.000Z",
+      "endDate": "2026-10-30T22:30:00.000Z",
+      "location": "La Pecora Bianca NoMad — 1133 Broadway, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Start your weekend at The New York Historical's library",
+      "url": "https://www.meetup.com/silentbookclubnyc/events/317054873/",
+      "startDate": "2026-10-30T22:30:00.000Z",
+      "endDate": "2026-10-30T22:30:00.000Z",
+      "location": "New-York Historical Society Museum & Library — 170 Central Park West, New York, NY, New York, NY, us",
+      "performer": "Silent Book Club NYC",
+      "organizer": "Silent Book Club NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,6 +79,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "How to Build Confidence Without Seeking Approval",
+      "url": "https://www.meetup.com/meetup-group-asmqqaus/events/317063728/",
+      "startDate": "2026-11-02T20:30:00.000Z",
+      "endDate": "2026-11-02T20:30:00.000Z",
+      "location": "",
+      "performer": "New York - Breakthrough for Success",
+      "organizer": "New York - Breakthrough for Success",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Chelsea Art Gallery Crawl!",
       "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
       "startDate": "2026-11-07T19:00:00.000Z",
@@ -119,17 +130,6 @@
       "location": "Grey Bar and Restaurant — 43 West 26th Street, New York, NY, New York, NY, us",
       "performer": "NY Media and Advertising Group",
       "organizer": "NY Media and Advertising Group",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "[Tuesday] Discussion: Nothing Lasts Forever",
-      "url": "https://www.meetup.com/new-york-conversations/events/316043252/",
-      "startDate": "2026-11-11T00:00:00.000Z",
-      "endDate": "2026-11-11T00:00:00.000Z",
-      "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
-      "performer": "New York Interesting Conversations",
-      "organizer": "New York Interesting Conversations",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
