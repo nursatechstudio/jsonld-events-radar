@@ -1,25 +1,14 @@
 {
-  "generatedAt": "2026-11-01T07:36:48.933Z",
+  "generatedAt": "2026-11-02T07:56:45.346Z",
   "events": [
     {
-      "name": "Delaware River Wine Train Excursion w Brunch  (Nov 1st)",
-      "url": "https://www.meetup.com/gilligansadventures/events/316416829/",
-      "startDate": "2026-11-01T14:30:00.000Z",
-      "endDate": "2026-11-01T14:30:00.000Z",
-      "location": "Whole Foods at Bergen Town Center — 300 Bergen Town Center, Paramus, NJ, Paramus, NJ, us",
-      "performer": "Gilligan's Adventures",
-      "organizer": "Gilligan's Adventures",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Epictetus on seeking admiration",
-      "url": "https://www.meetup.com/global-stoa/events/317037819/",
-      "startDate": "2026-11-01T17:00:00.000Z",
-      "endDate": "2026-11-01T17:00:00.000Z",
-      "location": "",
-      "performer": "Global Stoa",
-      "organizer": "Global Stoa",
+      "name": "Monday🗽🍹NYC Connects Social Happy Hour: Professionals & New to NYC",
+      "url": "https://www.meetup.com/nycconnects-social/events/316949963/",
+      "startDate": "2026-11-02T23:15:00.000Z",
+      "endDate": "2026-11-02T23:15:00.000Z",
+      "location": "Sugar Mouse, NYC — 47 3rd Avenue, New York, NY, New York, NY, us",
+      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
+      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -35,6 +24,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Making Friends and Being Happier",
+      "url": "https://www.meetup.com/making-friends-and-being-happier-in-life/events/317114566/",
+      "startDate": "2026-11-03T00:00:00.000Z",
+      "endDate": "2026-11-03T00:00:00.000Z",
+      "location": "",
+      "performer": "Making Friends and Being Happier in Life",
+      "organizer": "Making Friends and Being Happier in Life",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "AIMLC Meetup: Did AI Break The Navier-Stokes Equations?",
       "url": "https://www.meetup.com/new-york-ai-ml-conversations/events/317079510/",
       "startDate": "2026-11-03T22:30:00.000Z",
@@ -46,39 +46,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Empower Experience (Nov 5, online))",
-      "url": "https://www.meetup.com/the-empower-experience/events/317031342/",
-      "startDate": "2026-11-06T00:00:00.000Z",
-      "endDate": "2026-11-06T00:00:00.000Z",
-      "location": "",
-      "performer": "The Empower Experience",
-      "organizer": "The Empower Experience",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "From Small Talk to Real Friendship",
-      "url": "https://www.meetup.com/a-new-relationship/events/317114471/",
-      "startDate": "2026-11-07T00:00:00.000Z",
-      "endDate": "2026-11-07T00:00:00.000Z",
-      "location": "",
-      "performer": "A New Relationship",
-      "organizer": "A New Relationship",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Adult Kickball - Hackensack",
-      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316703899/",
-      "startDate": "2026-11-07T17:00:00.000Z",
-      "endDate": "2026-11-07T17:00:00.000Z",
-      "location": "Columbus Park — 199 W Franklin St,, Hackensack, NJ, Hackensack, NJ, US",
-      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
-      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "Chelsea Art Gallery Crawl!",
       "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
       "startDate": "2026-11-07T19:00:00.000Z",
@@ -86,6 +53,28 @@
       "location": "Marquee New York — 289 10th Avenue, New York, NY, New York, NY, us",
       "performer": "Socially Awkward but I'm Trying",
       "organizer": "Socially Awkward but I'm Trying",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Boardgames & Cookies",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316998629/",
+      "startDate": "2026-11-07T20:00:00.000Z",
+      "endDate": "2026-11-07T20:00:00.000Z",
+      "location": "601 Lexington Ave — 601 Lexington Avenue, New York, NY, New York, NY, US",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
+      "url": "https://www.meetup.com/loungeasiaamericas/events/316674053/",
+      "startDate": "2026-11-08T00:00:00.000Z",
+      "endDate": "2026-11-08T00:00:00.000Z",
+      "location": "DB Coopers — 506 9th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -130,6 +119,17 @@
       "location": "Brookfield Place — 230 Vesey St, New York, NY, New York, NY, US",
       "performer": "New York Interesting Conversations",
       "organizer": "New York Interesting Conversations",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "endDate": "2026-11-13T19:00:00.000Z",
+      "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
