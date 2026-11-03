@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-11-02T07:56:45.346Z",
+  "generatedAt": "2026-11-03T14:37:41.371Z",
   "events": [
-    {
-      "name": "Monday🗽🍹NYC Connects Social Happy Hour: Professionals & New to NYC",
-      "url": "https://www.meetup.com/nycconnects-social/events/316949963/",
-      "startDate": "2026-11-02T23:15:00.000Z",
-      "endDate": "2026-11-02T23:15:00.000Z",
-      "location": "Sugar Mouse, NYC — 47 3rd Avenue, New York, NY, New York, NY, us",
-      "performer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "organizer": "🗽NYC CONNECTS🚕Social Events🍸New to NYC🔌",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "New York Story Night #90",
-      "url": "https://www.meetup.com/new-york-story-night/events/317065880/",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "endDate": "2026-11-03T00:00:00.000Z",
-      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
-      "performer": "New York Story Night",
-      "organizer": "New York Story Night",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Making Friends and Being Happier",
-      "url": "https://www.meetup.com/making-friends-and-being-happier-in-life/events/317114566/",
-      "startDate": "2026-11-03T00:00:00.000Z",
-      "endDate": "2026-11-03T00:00:00.000Z",
-      "location": "",
-      "performer": "Making Friends and Being Happier in Life",
-      "organizer": "Making Friends and Being Happier in Life",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "AIMLC Meetup: Did AI Break The Navier-Stokes Equations?",
       "url": "https://www.meetup.com/new-york-ai-ml-conversations/events/317079510/",
@@ -42,6 +9,17 @@
       "location": "11 W 19th St — 11 W 19th St, New York, NY, New York, NY, us",
       "performer": "New York AI/ML Conversations",
       "organizer": "New York AI/ML Conversations",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Boardgames at The Hugh in Midtown East!",
+      "url": "https://www.meetup.com/boardgame-icebreakers/events/314896397/",
+      "startDate": "2026-11-05T00:00:00.000Z",
+      "endDate": "2026-11-05T00:00:00.000Z",
+      "location": "The Hugh — 157 E 53rd St,, New York, NY, New York, NY, US",
+      "performer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
+      "organizer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -75,6 +53,17 @@
       "location": "DB Coopers — 506 9th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
       "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
       "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🎃👻🍂 Sleepy Hollow Street Fair Day Trip! 🚆🎶🌭",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317037015/",
+      "startDate": "2026-11-08T15:45:00.000Z",
+      "endDate": "2026-11-08T15:45:00.000Z",
+      "location": "McDonald's — 18 E 42nd St, New York, NY 10017, USA, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -123,13 +112,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
-      "startDate": "2026-11-13T19:00:00.000Z",
-      "endDate": "2026-11-13T19:00:00.000Z",
-      "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
+      "name": "*In Person* Practice and improve your public speaking skills!",
+      "url": "https://www.meetup.com/greenspeakers/events/316862184/",
+      "startDate": "2026-11-11T23:15:00.000Z",
+      "endDate": "2026-11-11T23:15:00.000Z",
+      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
+      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🀄 Learn to Play Mahjong in Midtown! Beginner Night at FreedSpaces",
+      "url": "https://www.meetup.com/mahjong-nyc/events/317037008/",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "endDate": "2026-11-13T00:00:00.000Z",
+      "location": "1030 6th Ave — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "Mahjong NYC",
+      "organizer": "Mahjong NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
