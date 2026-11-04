@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-11-03T14:37:41.371Z",
+  "generatedAt": "2026-11-04T14:50:36.597Z",
   "events": [
-    {
-      "name": "AIMLC Meetup: Did AI Break The Navier-Stokes Equations?",
-      "url": "https://www.meetup.com/new-york-ai-ml-conversations/events/317079510/",
-      "startDate": "2026-11-03T22:30:00.000Z",
-      "endDate": "2026-11-03T22:30:00.000Z",
-      "location": "11 W 19th St — 11 W 19th St, New York, NY, New York, NY, us",
-      "performer": "New York AI/ML Conversations",
-      "organizer": "New York AI/ML Conversations",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Boardgames at The Hugh in Midtown East!",
       "url": "https://www.meetup.com/boardgame-icebreakers/events/314896397/",
@@ -20,6 +9,28 @@
       "location": "The Hugh — 157 E 53rd St,, New York, NY, New York, NY, US",
       "performer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
       "organizer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Hypnosis for Insomnia: Program Your Mind to Sleep Well",
+      "url": "https://www.meetup.com/reprogram-your-subconscious-group/events/317220996/",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "endDate": "2026-11-07T00:00:00.000Z",
+      "location": "",
+      "performer": "The Bridge - Hypnotherapy",
+      "organizer": "The Bridge - Hypnotherapy",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "From Small Talk to Real Friendship",
+      "url": "https://www.meetup.com/a-new-relationship/events/317114471/",
+      "startDate": "2026-11-07T00:00:00.000Z",
+      "endDate": "2026-11-07T00:00:00.000Z",
+      "location": "",
+      "performer": "A New Relationship",
+      "organizer": "A New Relationship",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -119,17 +130,6 @@
       "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
       "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
       "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🀄 Learn to Play Mahjong in Midtown! Beginner Night at FreedSpaces",
-      "url": "https://www.meetup.com/mahjong-nyc/events/317037008/",
-      "startDate": "2026-11-13T00:00:00.000Z",
-      "endDate": "2026-11-13T00:00:00.000Z",
-      "location": "1030 6th Ave — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "Mahjong NYC",
-      "organizer": "Mahjong NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
