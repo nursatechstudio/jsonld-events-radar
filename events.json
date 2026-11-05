@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-11-04T14:50:36.597Z",
+  "generatedAt": "2026-11-05T14:55:44.875Z",
   "events": [
-    {
-      "name": "Boardgames at The Hugh in Midtown East!",
-      "url": "https://www.meetup.com/boardgame-icebreakers/events/314896397/",
-      "startDate": "2026-11-05T00:00:00.000Z",
-      "endDate": "2026-11-05T00:00:00.000Z",
-      "location": "The Hugh — 157 E 53rd St,, New York, NY, New York, NY, US",
-      "performer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
-      "organizer": "NYC Boardgame Icebreakers - Meet • Drink •  Play",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Hypnosis for Insomnia: Program Your Mind to Sleep Well",
-      "url": "https://www.meetup.com/reprogram-your-subconscious-group/events/317220996/",
-      "startDate": "2026-11-07T00:00:00.000Z",
-      "endDate": "2026-11-07T00:00:00.000Z",
-      "location": "",
-      "performer": "The Bridge - Hypnotherapy",
-      "organizer": "The Bridge - Hypnotherapy",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "From Small Talk to Real Friendship",
       "url": "https://www.meetup.com/a-new-relationship/events/317114471/",
@@ -31,6 +9,17 @@
       "location": "",
       "performer": "A New Relationship",
       "organizer": "A New Relationship",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Buddhism 101 - 8 worldly winds & 20 worldly Dharmas",
+      "url": "https://www.meetup.com/buddhism-101-maryland/events/316924871/",
+      "startDate": "2026-11-07T16:00:00.000Z",
+      "endDate": "2026-11-07T16:00:00.000Z",
+      "location": "",
+      "performer": "Buddhism 101 - Maryland",
+      "organizer": "Buddhism 101 - Maryland",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,17 +90,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Media/Advertising Professionals Meet",
-      "url": "https://www.meetup.com/ny-media-and-advertising-group/events/316869227/",
-      "startDate": "2026-11-10T23:00:00.000Z",
-      "endDate": "2026-11-10T23:00:00.000Z",
-      "location": "Grey Bar and Restaurant — 43 West 26th Street, New York, NY, New York, NY, us",
-      "performer": "NY Media and Advertising Group",
-      "organizer": "NY Media and Advertising Group",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "[Tuesday] Discussion: Nothing Lasts Forever",
       "url": "https://www.meetup.com/new-york-conversations/events/316043252/",
       "startDate": "2026-11-11T00:00:00.000Z",
@@ -123,13 +101,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "*In Person* Practice and improve your public speaking skills!",
-      "url": "https://www.meetup.com/greenspeakers/events/316862184/",
-      "startDate": "2026-11-11T23:15:00.000Z",
-      "endDate": "2026-11-11T23:15:00.000Z",
-      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
-      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
+      "name": "trade with Institutional order flow L1",
+      "url": "https://www.meetup.com/meetup-group-sqcvmcwn/events/317099523/",
+      "startDate": "2026-11-12T01:00:00.000Z",
+      "endDate": "2026-11-12T01:00:00.000Z",
+      "location": "",
+      "performer": "Onepiece Trade Tech - NA",
+      "organizer": "Onepiece Trade Tech - NA",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Live Masterclass + Q&A: How to Start Strength Training After 50 at Home",
+      "url": "https://www.meetup.com/strong-after-40-strength-healthy-aging-for-women/events/317102230/",
+      "startDate": "2026-11-15T23:30:00.000Z",
+      "endDate": "2026-11-15T23:30:00.000Z",
+      "location": "",
+      "performer": "Strong After 40: Strength & Healthy Aging for Women",
+      "organizer": "Strong After 40: Strength & Healthy Aging for Women",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     }
