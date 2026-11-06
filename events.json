@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T14:55:44.875Z",
+  "generatedAt": "2026-11-06T14:34:12.626Z",
   "events": [
     {
       "name": "From Small Talk to Real Friendship",
@@ -24,22 +24,22 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Free hiphop dance class!",
+      "url": "https://www.meetup.com/funeventsinny/events/316971359/",
+      "startDate": "2026-11-07T16:00:00.000Z",
+      "endDate": "2026-11-07T16:00:00.000Z",
+      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
+      "performer": "Fun events in NY!",
+      "organizer": "Fun events in NY!",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Chelsea Art Gallery Crawl!",
       "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
       "startDate": "2026-11-07T19:00:00.000Z",
       "endDate": "2026-11-07T19:00:00.000Z",
       "location": "Marquee New York — 289 10th Avenue, New York, NY, New York, NY, us",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Boardgames & Cookies",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316998629/",
-      "startDate": "2026-11-07T20:00:00.000Z",
-      "endDate": "2026-11-07T20:00:00.000Z",
-      "location": "601 Lexington Ave — 601 Lexington Avenue, New York, NY, New York, NY, US",
       "performer": "Socially Awkward but I'm Trying",
       "organizer": "Socially Awkward but I'm Trying",
       "ticketPrice": "",
@@ -90,6 +90,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Own Your Worth with Jacqui Yates",
+      "url": "https://www.meetup.com/online-support-meetup-group/events/317069433/",
+      "startDate": "2026-11-10T06:00:00.000Z",
+      "endDate": "2026-11-10T06:00:00.000Z",
+      "location": "",
+      "performer": "Online Support Meetup Group (7 day free trial, $40/month)",
+      "organizer": "Online Support Meetup Group (7 day free trial, $40/month)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "[Tuesday] Discussion: Nothing Lasts Forever",
       "url": "https://www.meetup.com/new-york-conversations/events/316043252/",
       "startDate": "2026-11-11T00:00:00.000Z",
@@ -101,13 +112,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "trade with Institutional order flow L1",
-      "url": "https://www.meetup.com/meetup-group-sqcvmcwn/events/317099523/",
-      "startDate": "2026-11-12T01:00:00.000Z",
-      "endDate": "2026-11-12T01:00:00.000Z",
+      "name": "Who Am I Without Them? A Workshop for Reclaiming Yourself After a Breakup",
+      "url": "https://www.meetup.com/breakup-and-divorce-support/events/316874762/",
+      "startDate": "2026-11-12T18:00:00.000Z",
+      "endDate": "2026-11-12T18:00:00.000Z",
       "location": "",
-      "performer": "Onepiece Trade Tech - NA",
-      "organizer": "Onepiece Trade Tech - NA",
+      "performer": "Getting Over Your Breakup",
+      "organizer": "Getting Over Your Breakup",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
