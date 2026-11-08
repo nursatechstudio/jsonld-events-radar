@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-07T13:29:33.720Z",
+  "generatedAt": "2026-11-08T13:48:49.838Z",
   "events": [
-    {
-      "name": "Free hiphop dance class!",
-      "url": "https://www.meetup.com/funeventsinny/events/316971359/",
-      "startDate": "2026-11-07T16:00:00.000Z",
-      "endDate": "2026-11-07T16:00:00.000Z",
-      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
-      "performer": "Fun events in NY!",
-      "organizer": "Fun events in NY!",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Buddhism 101 - 8 worldly winds & 20 worldly Dharmas",
-      "url": "https://www.meetup.com/buddhism-101-maryland/events/316924871/",
-      "startDate": "2026-11-07T16:00:00.000Z",
-      "endDate": "2026-11-07T16:00:00.000Z",
-      "location": "",
-      "performer": "Buddhism 101 - Maryland",
-      "organizer": "Buddhism 101 - Maryland",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Outdoor Badminton/Pickleball in Central Park",
-      "url": "https://www.meetup.com/nyc-outdoor-badminton/events/316375870/",
-      "startDate": "2026-11-07T17:00:00.000Z",
-      "endDate": "2026-11-07T17:00:00.000Z",
-      "location": "The Volley Ball Courts - Central Park Bandshell — Central Park Driveway, New York, NY, New York, NY, us",
-      "performer": "NYC Outdoor Badminton",
-      "organizer": "NYC Outdoor Badminton",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Chelsea Art Gallery Crawl!",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316597207/",
-      "startDate": "2026-11-07T19:00:00.000Z",
-      "endDate": "2026-11-07T19:00:00.000Z",
-      "location": "Marquee New York — 289 10th Avenue, New York, NY, New York, NY, us",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Boardgames & Cookies",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/316998629/",
-      "startDate": "2026-11-07T20:00:00.000Z",
-      "endDate": "2026-11-07T20:00:00.000Z",
-      "location": "601 Lexington Ave — 601 Lexington Avenue, New York, NY, New York, NY, US",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
-      "url": "https://www.meetup.com/loungeasiaamericas/events/316674053/",
-      "startDate": "2026-11-08T00:00:00.000Z",
-      "endDate": "2026-11-08T00:00:00.000Z",
-      "location": "DB Coopers — 506 9th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
-      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "🎃👻🍂 Sleepy Hollow Street Fair Day Trip! 🚆🎶🌭",
       "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317037015/",
@@ -79,13 +13,46 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "SIBERIAN SHAMANISM: THE MAGIC OF TRANSFORMING YOUR DESTINY",
-      "url": "https://www.meetup.com/masters-of-ancient-traditions/events/317127462/",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "endDate": "2026-11-10T00:00:00.000Z",
-      "location": "39-45 Crescent St — 39-45 Crescent St, Long Island City, NY 11101, USA, Queens, NY, Queens, NY, us",
-      "performer": "Masters of Ancient Traditions",
-      "organizer": "Masters of Ancient Traditions",
+      "name": "Uptown Reading Morning (Inwood)",
+      "url": "https://www.meetup.com/silentbookclubnyc/events/317238259/",
+      "startDate": "2026-11-08T16:00:00.000Z",
+      "endDate": "2026-11-08T16:00:00.000Z",
+      "location": "Buunni Coffee - Inwood — 4961 Broadway, New York, NY, New York, NY, us",
+      "performer": "Silent Book Club NYC",
+      "organizer": "Silent Book Club NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🕊 UPPER EAST SIDE GIRL CLUB COFFEE WALK 🍂",
+      "url": "https://www.meetup.com/girlsgoexplorenyc/events/317258565/",
+      "startDate": "2026-11-08T16:00:00.000Z",
+      "endDate": "2026-11-08T16:00:00.000Z",
+      "location": "Zuri Coffee — 1443 York Ave, New York, NY 10075, USA, New York, NY, New York, NY, us",
+      "performer": "Girls Go Explore NYC",
+      "organizer": "Girls Go Explore NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "7.5 Mile Central Park Hike & Dinner",
+      "url": "https://www.meetup.com/afternoonhiking/events/317242149/",
+      "startDate": "2026-11-08T17:15:00.000Z",
+      "endDate": "2026-11-08T17:15:00.000Z",
+      "location": "",
+      "performer": "The New York Afternoon Hiking Meetup",
+      "organizer": "The New York Afternoon Hiking Meetup",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Midtown Architecture and History Tour: From Pre-War to Art Deco to Modern",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316734834/",
+      "startDate": "2026-11-08T19:30:00.000Z",
+      "endDate": "2026-11-08T19:30:00.000Z",
+      "location": "455 5th Ave — 455 5th Avenue, New York, NY, New York, NY, US",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,6 +68,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
+      "url": "https://www.meetup.com/loungeasiaamericas/events/316872210/",
+      "startDate": "2026-11-11T00:00:00.000Z",
+      "endDate": "2026-11-11T00:00:00.000Z",
+      "location": "The Folly — 92 W Houston St, New York, NY 10012, USA, New York, NY, New York, NY, us",
+      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Introduction to the W3C Accessibility Guidelines (WCAG 3)",
       "url": "https://www.meetup.com/a11ynyc/events/316963808/",
       "startDate": "2026-11-11T00:30:00.000Z",
@@ -108,6 +86,28 @@
       "location": "72 Spring St — 72 Spring St, New York, NY, New York, NY, us",
       "performer": "A11yNYC - Accessibility New York City",
       "organizer": "A11yNYC - Accessibility New York City",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "endDate": "2026-11-13T19:00:00.000Z",
+      "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "trade with Institutional order flow L2",
+      "url": "https://www.meetup.com/meetup-group-sqcvmcwn/events/317126861/",
+      "startDate": "2026-11-14T01:00:00.000Z",
+      "endDate": "2026-11-14T01:00:00.000Z",
+      "location": "",
+      "performer": "Onepiece Trade Tech - NA",
+      "organizer": "Onepiece Trade Tech - NA",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
