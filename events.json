@@ -1,28 +1,6 @@
 {
-  "generatedAt": "2026-11-09T16:48:40.259Z",
+  "generatedAt": "2026-11-10T15:12:05.399Z",
   "events": [
-    {
-      "name": "Bryant Park Winter Village 2026",
-      "url": "https://www.meetup.com/vegetarian-nyc/events/317074594/",
-      "startDate": "2026-11-09T23:45:00.000Z",
-      "endDate": "2026-11-09T23:45:00.000Z",
-      "location": "Bryant Park — West 42nd Street and 6th Avenue, New York, NY, New York, NY, us",
-      "performer": "The New York City Vegetarian & Vegan Meetup",
-      "organizer": "The New York City Vegetarian & Vegan Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "What if All Self Help Is Wrong? | Letting Go Talk (In Person + Online)",
-      "url": "https://www.meetup.com/letting-go-workshops/events/317279127/",
-      "startDate": "2026-11-10T00:00:00.000Z",
-      "endDate": "2026-11-10T00:00:00.000Z",
-      "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "Letting Go Workshops",
-      "organizer": "Letting Go Workshops",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Media/Advertising Professionals Meet",
       "url": "https://www.meetup.com/ny-media-and-advertising-group/events/316869227/",
@@ -68,17 +46,6 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Understanding Narcissistic Patterns and Tactics with Jacqui Yates",
-      "url": "https://www.meetup.com/online-support-meetup-group/events/317085126/",
-      "startDate": "2026-11-11T05:00:00.000Z",
-      "endDate": "2026-11-11T05:00:00.000Z",
-      "location": "",
-      "performer": "Online Support Meetup Group (7 day free trial, $40/month)",
-      "organizer": "Online Support Meetup Group (7 day free trial, $40/month)",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "*In Person* Practice and improve your public speaking skills!",
       "url": "https://www.meetup.com/greenspeakers/events/316862184/",
       "startDate": "2026-11-11T23:15:00.000Z",
@@ -112,6 +79,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Get Sh*t Done Club 💪 ONLINE Deep Work Saturday · 11am–1pm",
+      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/317130771/",
+      "startDate": "2026-11-14T16:00:00.000Z",
+      "endDate": "2026-11-14T16:00:00.000Z",
+      "location": "",
+      "performer": "Get Sh*t Done Club",
+      "organizer": "Get Sh*t Done Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Grand Central Park Tour with Hiking and History!",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316304145/",
+      "startDate": "2026-11-15T16:00:00.000Z",
+      "endDate": "2026-11-15T16:00:00.000Z",
+      "location": "Christopher Columbus Statue — Q299+66, New York, NY 10019, USA, New York, NY, New York, NY, us",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Live Masterclass + Q&A: How to Start Strength Training After 50 at Home",
       "url": "https://www.meetup.com/strong-after-40-strength-healthy-aging-for-women/events/317102230/",
       "startDate": "2026-11-15T23:30:00.000Z",
@@ -119,6 +108,17 @@
       "location": "",
       "performer": "Strong After 40: Strength & Healthy Aging for Women",
       "organizer": "Strong After 40: Strength & Healthy Aging for Women",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "New York Story Night #91",
+      "url": "https://www.meetup.com/new-york-story-night/events/317065894/",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "endDate": "2026-11-17T00:00:00.000Z",
+      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
+      "performer": "New York Story Night",
+      "organizer": "New York Story Night",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
