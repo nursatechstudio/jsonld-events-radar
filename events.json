@@ -1,22 +1,33 @@
 {
-  "generatedAt": "2026-11-11T14:41:25.142Z",
+  "generatedAt": "2026-11-12T15:33:37.527Z",
   "events": [
     {
-      "name": "Free to Be Me with Miik Wells",
-      "url": "https://www.meetup.com/online-support-meetup-group/events/317089026/",
-      "startDate": "2026-11-11T15:00:00.000Z",
-      "endDate": "2026-11-11T15:00:00.000Z",
+      "name": "Hypnosis for Depression: A Safe Space to Feel and Heal",
+      "url": "https://www.meetup.com/reprogram-your-subconscious-group/events/317327079/",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "endDate": "2026-11-13T00:00:00.000Z",
       "location": "",
-      "performer": "Online Support Meetup Group (7 day free trial, $40/month)",
-      "organizer": "Online Support Meetup Group (7 day free trial, $40/month)",
+      "performer": "The Bridge - Hypnotherapy",
+      "organizer": "The Bridge - Hypnotherapy",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Archetypes that Ruin Your Life - In Person and Online",
+      "url": "https://www.meetup.com/letting-go-workshops/events/317241459/",
+      "startDate": "2026-11-13T00:00:00.000Z",
+      "endDate": "2026-11-13T00:00:00.000Z",
+      "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "Letting Go Workshops",
+      "organizer": "Letting Go Workshops",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/317291551/",
-      "startDate": "2026-11-11T19:00:00.000Z",
-      "endDate": "2026-11-11T19:00:00.000Z",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
+      "startDate": "2026-11-13T19:00:00.000Z",
+      "endDate": "2026-11-13T19:00:00.000Z",
       "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
       "performer": "Exploring NYC History and Neighborhoods",
       "organizer": "Exploring NYC History and Neighborhoods",
@@ -24,46 +35,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "AI & Tech Networking Event in New York by Ascent Valley",
-      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316406363/",
-      "startDate": "2026-11-11T23:00:00.000Z",
-      "endDate": "2026-11-11T23:00:00.000Z",
-      "location": "The Lobby Bar & Garden — 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us",
-      "performer": "Startup Networking & Founder Ecosystem | New York",
-      "organizer": "Startup Networking & Founder Ecosystem | New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Founders, Investors & Talent Networking Mixer NYC",
-      "url": "https://www.meetup.com/startup-networking-founder-ecosystem-new-york/events/316405905/",
-      "startDate": "2026-11-11T23:00:00.000Z",
-      "endDate": "2026-11-11T23:00:00.000Z",
-      "location": "The Lobby Bar & Garden — 518 W 27th St Lower Level, New York, NY 10001, USA, New York, NY, New York, NY, us",
-      "performer": "Startup Networking & Founder Ecosystem | New York",
-      "organizer": "Startup Networking & Founder Ecosystem | New York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "*In Person* Practice and improve your public speaking skills!",
-      "url": "https://www.meetup.com/greenspeakers/events/316862184/",
-      "startDate": "2026-11-11T23:15:00.000Z",
-      "endDate": "2026-11-11T23:15:00.000Z",
-      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
-      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🔌💃Latino networking & dancing for beginners",
-      "url": "https://www.meetup.com/latin-american-nyc-latinos-y-latinas-de-nueva-york/events/317304485/",
-      "startDate": "2026-11-11T23:30:00.000Z",
-      "endDate": "2026-11-11T23:30:00.000Z",
-      "location": "500 8th Avenue — 500 8th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "💃Latina NYC: Latinos y Latinas de Nueva York",
-      "organizer": "💃Latina NYC: Latinos y Latinas de Nueva York",
+      "name": "Computer Networking for AI Introduction",
+      "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+      "startDate": "2026-11-13T20:00:00.000Z",
+      "endDate": "2026-11-13T20:00:00.000Z",
+      "location": "",
+      "performer": "Eli the Computer Guy",
+      "organizer": "Eli the Computer Guy",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,6 +57,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Croton Point Park Our Third Upstate Trip",
+      "url": "https://www.meetup.com/nyc-photographers/events/316938676/",
+      "startDate": "2026-11-14T15:00:00.000Z",
+      "endDate": "2026-11-14T15:00:00.000Z",
+      "location": "Grand Central Terminal — 89 E 42nd St, New York, NY 10017, USA, New York, NY, New York, NY, us",
+      "performer": "NYC Photographers",
+      "organizer": "NYC Photographers",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Nov 14 - NYC Physical AI Workshop and Meetup",
+      "url": "https://www.meetup.com/ai-professionals-nyc-machine-learning/events/316518962/",
+      "startDate": "2026-11-14T18:30:00.000Z",
+      "endDate": "2026-11-14T18:30:00.000Z",
+      "location": "Kimmel Center for University Life — 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
+      "performer": "AI Professionals NYC Machine Learning",
+      "organizer": "AI Professionals NYC Machine Learning",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "The Grand Central Park Tour with Hiking and History!",
       "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316304145/",
       "startDate": "2026-11-15T16:00:00.000Z",
@@ -90,13 +90,13 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "GenAI Tokenomics",
-      "url": "https://www.meetup.com/aws-nyc/events/317274346/",
-      "startDate": "2026-11-16T21:30:00.000Z",
-      "endDate": "2026-11-16T21:30:00.000Z",
-      "location": "JFK27 - Hank — 12 W 39th St, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "AWS New York | Official Meetup",
-      "organizer": "AWS New York | Official Meetup",
+      "name": "Live Masterclass + Q&A: How to Start Strength Training After 50 at Home",
+      "url": "https://www.meetup.com/strong-after-40-strength-healthy-aging-for-women/events/317102230/",
+      "startDate": "2026-11-15T23:30:00.000Z",
+      "endDate": "2026-11-15T23:30:00.000Z",
+      "location": "",
+      "performer": "Strong After 40: Strength & Healthy Aging for Women",
+      "organizer": "Strong After 40: Strength & Healthy Aging for Women",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -108,6 +108,17 @@
       "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
       "performer": "New York Story Night",
       "organizer": "New York Story Night",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Letting Go Seminar + Burning: The Whole Method in 2 Hours (Online)",
+      "url": "https://www.meetup.com/letting-go-workshops/events/317151071/",
+      "startDate": "2026-11-17T23:00:00.000Z",
+      "endDate": "2026-11-17T23:00:00.000Z",
+      "location": "",
+      "performer": "Letting Go Workshops",
+      "organizer": "Letting Go Workshops",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
