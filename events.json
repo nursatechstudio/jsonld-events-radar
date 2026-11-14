@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-11-13T14:52:21.355Z",
+  "generatedAt": "2026-11-14T13:45:59.000Z",
   "events": [
-    {
-      "name": "Computer Networking for AI Introduction",
-      "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
-      "startDate": "2026-11-13T20:00:00.000Z",
-      "endDate": "2026-11-13T20:00:00.000Z",
-      "location": "",
-      "performer": "Eli the Computer Guy",
-      "organizer": "Eli the Computer Guy",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "URBAN WALK: Inwood Park Stroll - New Members Welcome!",
       "url": "https://www.meetup.com/amcnynj/events/317191817/",
@@ -20,6 +9,28 @@
       "location": "Anne Loftus Playground — Broadway &, Riverside Dr, New York, NY 10040, USA, New York, NY, New York, NY, us",
       "performer": "Appalachian Mountain Club New York-North Jersey",
       "organizer": "Appalachian Mountain Club New York-North Jersey",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Croton Point Park Our Third Upstate Trip",
+      "url": "https://www.meetup.com/nyc-photographers/events/316938676/",
+      "startDate": "2026-11-14T15:00:00.000Z",
+      "endDate": "2026-11-14T15:00:00.000Z",
+      "location": "Grand Central Terminal — 89 E 42nd St, New York, NY 10017, USA, New York, NY, New York, NY, us",
+      "performer": "NYC Photographers",
+      "organizer": "NYC Photographers",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Free Locking dance class!",
+      "url": "https://www.meetup.com/funeventsinny/events/316274556/",
+      "startDate": "2026-11-14T16:00:00.000Z",
+      "endDate": "2026-11-14T16:00:00.000Z",
+      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
+      "performer": "Fun events in NY!",
+      "organizer": "Fun events in NY!",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -35,6 +46,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "NYC Photo Walk: Bushwick 🍁",
+      "url": "https://www.meetup.com/hazenyc/events/317214010/",
+      "startDate": "2026-11-14T17:30:00.000Z",
+      "endDate": "2026-11-14T17:30:00.000Z",
+      "location": "SEY Coffee — 18 Grattan St, Brooklyn, NY 11206, USA, Brooklyn, NY, Brooklyn, NY, us",
+      "performer": "Haze Photo Club NYC",
+      "organizer": "Haze Photo Club NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Get Sh*t Done Club 💪 ONLINE Deep Work Saturday · 1–3pm",
+      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/317130779/",
+      "startDate": "2026-11-14T18:00:00.000Z",
+      "endDate": "2026-11-14T18:00:00.000Z",
+      "location": "",
+      "performer": "Get Sh*t Done Club",
+      "organizer": "Get Sh*t Done Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Nov 14 - NYC Physical AI Workshop and Meetup",
       "url": "https://www.meetup.com/ai-professionals-nyc-machine-learning/events/316518962/",
       "startDate": "2026-11-14T18:30:00.000Z",
@@ -42,28 +75,6 @@
       "location": "Kimmel Center for University Life — 60 Washington Square S, New York, NY 10012, USA, New York, NY, New York, NY, us",
       "performer": "AI Professionals NYC Machine Learning",
       "organizer": "AI Professionals NYC Machine Learning",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "The Grand Central Park Tour with Hiking and History!",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316304145/",
-      "startDate": "2026-11-15T16:00:00.000Z",
-      "endDate": "2026-11-15T16:00:00.000Z",
-      "location": "Christopher Columbus Statue — Q299+66, New York, NY 10019, USA, New York, NY, New York, NY, us",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Fort Tryon Park: Phone Photo Walk to the 250 America Commemoration",
-      "url": "https://www.meetup.com/amcnynj/events/317317488/",
-      "startDate": "2026-11-15T16:15:00.000Z",
-      "endDate": "2026-11-15T16:15:00.000Z",
-      "location": "Fort Tryon Park — Margaret Corbin Circle, Margaret Corbin Circle, New York, NY, New York, NY, us",
-      "performer": "Appalachian Mountain Club New York-North Jersey",
-      "organizer": "Appalachian Mountain Club New York-North Jersey",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,46 +90,24 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Writing Group – Harlem Session",
-      "url": "https://www.meetup.com/thewritinggroup/events/316871715/",
-      "startDate": "2026-11-17T23:00:00.000Z",
-      "endDate": "2026-11-17T23:00:00.000Z",
-      "location": "Rough Draft — 126 Hamilton Pl, New York, NY 10031, USA, New York, NY, New York, NY, us",
-      "performer": "The Writing Group",
-      "organizer": "The Writing Group",
+      "name": "Gut Feelings, Gut Issues & Your Vagus Nerve: What Your Body Is Telling You",
+      "url": "https://www.meetup.com/beyondmindset-nervoussystemmastery/events/317230122/",
+      "startDate": "2026-11-17T23:30:00.000Z",
+      "endDate": "2026-11-17T23:30:00.000Z",
+      "location": "",
+      "performer": "Beyond Mindset: Nervous System Mastery",
+      "organizer": "Beyond Mindset: Nervous System Mastery",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
-      "url": "https://www.meetup.com/loungeasiaamericas/events/317249943/",
+      "name": "Letting Go Seminar + Burning: The Whole Method in 2 Hours (Online)",
+      "url": "https://www.meetup.com/letting-go-workshops/events/317151071/",
       "startDate": "2026-11-18T00:00:00.000Z",
       "endDate": "2026-11-18T00:00:00.000Z",
-      "location": "The Folly — 92 W Houston St, New York, NY 10012, USA, New York, NY, New York, NY, us",
-      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
-      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
-      "startDate": "2026-11-20T19:00:00.000Z",
-      "endDate": "2026-11-20T19:00:00.000Z",
-      "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Get Sh*t Done Club 💪 IN-PERSON Deep Work Saturday · 1–3pm",
-      "url": "https://www.meetup.com/get-sh-t-done-nyc/events/317130807/",
-      "startDate": "2026-11-21T18:00:00.000Z",
-      "endDate": "2026-11-21T18:00:00.000Z",
-      "location": "1030 6th Ave — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "Get Sh*t Done Club",
-      "organizer": "Get Sh*t Done Club",
+      "location": "",
+      "performer": "Letting Go Workshops",
+      "organizer": "Letting Go Workshops",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
