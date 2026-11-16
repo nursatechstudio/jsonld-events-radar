@@ -1,60 +1,16 @@
 {
-  "generatedAt": "2026-11-15T14:16:37.500Z",
+  "generatedAt": "2026-11-16T16:21:19.274Z",
   "events": [
     {
-      "name": "The Grand Central Park Tour with Hiking and History!",
-      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316304145/",
-      "startDate": "2026-11-15T16:00:00.000Z",
-      "endDate": "2026-11-15T16:00:00.000Z",
-      "location": "Christopher Columbus Statue — Q299+66, New York, NY 10019, USA, New York, NY, New York, NY, us",
-      "performer": "Exploring NYC History and Neighborhoods",
-      "organizer": "Exploring NYC History and Neighborhoods",
+      "name": "GenAI Tokenomics",
+      "url": "https://www.meetup.com/aws-nyc/events/317274346/",
+      "startDate": "2026-11-16T21:30:00.000Z",
+      "endDate": "2026-11-16T21:30:00.000Z",
+      "location": "JFK27 - Hank — 12 W 39th St, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "AWS New York | Official Meetup",
+      "organizer": "AWS New York | Official Meetup",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Fort Tryon Park: Phone Photo Walk to the 250 America Commemoration",
-      "url": "https://www.meetup.com/amcnynj/events/317317488/",
-      "startDate": "2026-11-15T16:15:00.000Z",
-      "endDate": "2026-11-15T16:15:00.000Z",
-      "location": "Fort Tryon Park — Margaret Corbin Circle, Margaret Corbin Circle, New York, NY, New York, NY, us",
-      "performer": "Appalachian Mountain Club New York-North Jersey",
-      "organizer": "Appalachian Mountain Club New York-North Jersey",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "🍝 Socially Awkward Friendsgiving: Pasta, Pals & Gratitude at Patrizia’s 🇮🇹",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317100490/",
-      "startDate": "2026-11-15T18:00:00.000Z",
-      "endDate": "2026-11-15T18:00:00.000Z",
-      "location": "Patrizia's Of Manhattan — 462-466 2nd Ave, New York, NY 10016, USA, New York, NY, New York, NY, us",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "NYC/NJ Data Science & AI Professionals Social Meetup",
-      "url": "https://www.meetup.com/ny-nj-data-science-ai-professionals-group/events/316930679/",
-      "startDate": "2026-11-15T23:00:00.000Z",
-      "endDate": "2026-11-15T23:00:00.000Z",
-      "location": "Bocca di Bacco Chelsea — 169 9th Ave, New York, NY 10011, USA, New York, NY, New York, NY, us",
-      "performer": "NY/NJ Data Science AI professionals Group",
-      "organizer": "NY/NJ Data Science AI professionals Group",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "GOSH 20th Paediatric Pain Symposium",
-      "url": "https://www.eventbrite.co.uk/e/gosh-20th-paediatric-pain-symposium-tickets-1988841541589",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "What Does Isolation Do to Children? Neuroscience Meets Youth Justice",
@@ -79,17 +35,6 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Making Friends and Being Happier",
-      "url": "https://www.meetup.com/making-friends-and-being-happier-in-life/events/317312094/",
-      "startDate": "2026-11-17T00:00:00.000Z",
-      "endDate": "2026-11-17T00:00:00.000Z",
-      "location": "",
-      "performer": "Making Friends and Being Happier in Life",
-      "organizer": "Making Friends and Being Happier in Life",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
       "name": "New York Story Night #91",
       "url": "https://www.meetup.com/new-york-story-night/events/317065894/",
       "startDate": "2026-11-17T00:00:00.000Z",
@@ -108,6 +53,17 @@
       "location": "The Irish American Pub — 17 John St, New York, NY 10038, USA, New York, NY, New York, NY, us",
       "performer": "Tech Gather NYC",
       "organizer": "Tech Gather NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Making Friends and Being Happier",
+      "url": "https://www.meetup.com/making-friends-and-being-happier-in-life/events/317312094/",
+      "startDate": "2026-11-17T00:00:00.000Z",
+      "endDate": "2026-11-17T00:00:00.000Z",
+      "location": "",
+      "performer": "Making Friends and Being Happier in Life",
+      "organizer": "Making Friends and Being Happier in Life",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -134,6 +90,17 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
+      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
+      "url": "https://www.meetup.com/loungeasiaamericas/events/317249943/",
+      "startDate": "2026-11-18T00:00:00.000Z",
+      "endDate": "2026-11-18T00:00:00.000Z",
+      "location": "The Folly — 92 W Houston St, New York, NY 10012, USA, New York, NY, New York, NY, us",
+      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Letting Go Seminar + Burning: The Whole Method in 2 Hours (Online)",
       "url": "https://www.meetup.com/letting-go-workshops/events/317151071/",
       "startDate": "2026-11-18T00:00:00.000Z",
@@ -145,15 +112,26 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "🏐 18+ Volleyball Open Gym — All Levels Welcome!",
-      "url": "https://www.meetup.com/new-york-indoor-volleyball-meetup/events/317211357/",
-      "startDate": "2026-11-19T23:00:00.000Z",
-      "endDate": "2026-11-19T23:00:00.000Z",
-      "location": "The Church of Jesus Christ of Latter Day Saints — 1815 Riverside Drive, New York, NY, New York, NY, US",
-      "performer": "New York Indoor Volleyball Meetup",
-      "organizer": "New York Indoor Volleyball Meetup",
+      "name": "The Postgres Mistakes that we all still make",
+      "url": "https://www.meetup.com/postgres-nyc/events/317310443/",
+      "startDate": "2026-11-18T23:00:00.000Z",
+      "endDate": "2026-11-18T23:00:00.000Z",
+      "location": "5 Bryant Park — 5 Bryant Pk, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "NYC Postgres",
+      "organizer": "NYC Postgres",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Rebellious Business Networking Event",
+      "url": "https://www.eventbrite.co.uk/e/rebellious-business-networking-event-tickets-1979114947083",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "A to Z Rental Property Management: From Application to Move-Out",
@@ -167,10 +145,21 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "HBR Book Webinar:  Unspeakable",
-      "url": "https://www.eventbrite.co.uk/e/hbr-book-webinar-unspeakable-tickets-2003706919334",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
+      "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
+      "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
+      "startDate": "2026-11-20T19:00:00.000Z",
+      "endDate": "2026-11-20T19:00:00.000Z",
+      "location": "Cooper Hewitt Arthur Ross Terrace & Gardens — Corner of 90th Street and 5th Ave, New York, NY, New York, NY, us",
+      "performer": "Exploring NYC History and Neighborhoods",
+      "organizer": "Exploring NYC History and Neighborhoods",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "How To Become A Medical Courier",
+      "url": "https://www.eventbrite.com/e/how-to-become-a-medical-courier-tickets-1987938980003",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -178,10 +167,10 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "2026 Clemson University Income Tax Course - Online Event - Second Offering",
-      "url": "https://www.eventbrite.com/e/2026-clemson-university-income-tax-course-online-event-second-offering-tickets-1992223911348",
+      "name": "HBR Book Webinar:  Unspeakable",
+      "url": "https://www.eventbrite.co.uk/e/hbr-book-webinar-unspeakable-tickets-2003706919334",
       "startDate": "2026-11-23",
-      "endDate": "2026-11-24",
+      "endDate": "2026-11-23",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -233,6 +222,28 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
+      "name": "Ping Pong Party - North Jersey",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
+      "startDate": "2026-11-28T00:30:00.000Z",
+      "endDate": "2026-11-28T00:30:00.000Z",
+      "location": "Ready to Golf — 3 New Bridge Road, River Edge, NJ, River Edge, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Introductions, desires, intentions...",
+      "url": "https://www.meetup.com/community-seeking-depth-and-aliveness/events/317442476/",
+      "startDate": "2026-11-29T17:00:00.000Z",
+      "endDate": "2026-11-29T17:00:00.000Z",
+      "location": "",
+      "performer": "Community seeking Depth and Aliveness",
+      "organizer": "Community seeking Depth and Aliveness",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "EBA Open Forum on Digital Transformation",
       "url": "https://www.eventbrite.com/e/eba-open-forum-on-digital-transformation-tickets-2001163586156",
       "startDate": "2026-12-01",
@@ -281,17 +292,6 @@
       "url": "https://www.eventbrite.com/e/octane-2026-intermediate-excel-bootcamp-registration-2000262951333",
       "startDate": "2026-12-07",
       "endDate": "2026-12-10",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "2026 Clemson University Income Tax Course - Online Event - Third Offering",
-      "url": "https://www.eventbrite.com/e/2026-clemson-university-income-tax-course-online-event-third-offering-tickets-1992227034690",
-      "startDate": "2026-12-07",
-      "endDate": "2026-12-09",
       "location": "",
       "performer": "",
       "organizer": "",
