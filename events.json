@@ -1,22 +1,11 @@
 {
-  "generatedAt": "2026-11-16T16:21:19.274Z",
+  "generatedAt": "2026-11-17T16:25:59.485Z",
   "events": [
     {
-      "name": "GenAI Tokenomics",
-      "url": "https://www.meetup.com/aws-nyc/events/317274346/",
-      "startDate": "2026-11-16T21:30:00.000Z",
-      "endDate": "2026-11-16T21:30:00.000Z",
-      "location": "JFK27 - Hank — 12 W 39th St, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "AWS New York | Official Meetup",
-      "organizer": "AWS New York | Official Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "What Does Isolation Do to Children? Neuroscience Meets Youth Justice",
-      "url": "https://www.eventbrite.co.uk/e/what-does-isolation-do-to-children-neuroscience-meets-youth-justice-tickets-2003466425009",
+      "name": "Toxics Use Reduction Fall Conference 2026",
+      "url": "https://www.eventbrite.com/e/toxics-use-reduction-fall-conference-2026-registration-1999680317660",
       "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
+      "endDate": "2026-11-19",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -24,46 +13,13 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Crash Course on Facilitating Disagreement",
-      "url": "https://www.eventbrite.com/e/crash-course-on-facilitating-disagreement-tickets-2001402380396",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-17",
+      "name": "Databricks: From Zero to Hero",
+      "url": "https://www.meetup.com/data-platform-wit/events/317008747/",
+      "startDate": "2026-11-17T17:00:00.000Z",
+      "endDate": "2026-11-17T17:00:00.000Z",
       "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "New York Story Night #91",
-      "url": "https://www.meetup.com/new-york-story-night/events/317065894/",
-      "startDate": "2026-11-17T00:00:00.000Z",
-      "endDate": "2026-11-17T00:00:00.000Z",
-      "location": "The Churchill Tavern — 45 E 28th St, New York, NY, New York, NY, us",
-      "performer": "New York Story Night",
-      "organizer": "New York Story Night",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Tech Gather NYC November Meetup",
-      "url": "https://www.meetup.com/tech-gather-nyc/events/317307047/",
-      "startDate": "2026-11-17T00:00:00.000Z",
-      "endDate": "2026-11-17T00:00:00.000Z",
-      "location": "The Irish American Pub — 17 John St, New York, NY 10038, USA, New York, NY, New York, NY, us",
-      "performer": "Tech Gather NYC",
-      "organizer": "Tech Gather NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Making Friends and Being Happier",
-      "url": "https://www.meetup.com/making-friends-and-being-happier-in-life/events/317312094/",
-      "startDate": "2026-11-17T00:00:00.000Z",
-      "endDate": "2026-11-17T00:00:00.000Z",
-      "location": "",
-      "performer": "Making Friends and Being Happier in Life",
-      "organizer": "Making Friends and Being Happier in Life",
+      "performer": "Data Platform WIT",
+      "organizer": "Data Platform WIT",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -79,8 +35,41 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "@Credit Genie: Server-Driven UI on Top of Design System && AI, Beyond the Prompt",
+      "url": "https://www.meetup.com/iosoho/events/317280280/",
+      "startDate": "2026-11-17T23:00:00.000Z",
+      "endDate": "2026-11-17T23:00:00.000Z",
+      "location": "250 Park Ave S — 250 Park Ave S, New York, NY 10003, USA, New York, NY, New York, NY, us",
+      "performer": "iOSoho - New York City's Largest iOS Engineer Meetup",
+      "organizer": "iOSoho - New York City's Largest iOS Engineer Meetup",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "EDI Event: A Day of EDI with CIOB",
       "url": "https://www.eventbrite.co.uk/e/edi-event-a-day-of-edi-with-ciob-tickets-1991872300671",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "GIS and Georeferencing for Landscape Architects",
+      "url": "https://www.eventbrite.co.uk/e/gis-and-georeferencing-for-landscape-architects-tickets-1995668807124",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-18",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Beyond the Title: Recognising and Leveraging Transferable Leadership Skills",
+      "url": "https://www.eventbrite.co.uk/e/beyond-the-title-recognising-and-leveraging-transferable-leadership-skills-tickets-2003718043607",
       "startDate": "2026-11-18",
       "endDate": "2026-11-18",
       "location": "",
@@ -101,26 +90,26 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Letting Go Seminar + Burning: The Whole Method in 2 Hours (Online)",
-      "url": "https://www.meetup.com/letting-go-workshops/events/317151071/",
+      "name": "Networking for Tech Startups, Investors, Professionals in NYC",
+      "url": "https://www.meetup.com/startup-pitch-networking-nyc/events/317046186/",
       "startDate": "2026-11-18T00:00:00.000Z",
       "endDate": "2026-11-18T00:00:00.000Z",
-      "location": "",
-      "performer": "Letting Go Workshops",
-      "organizer": "Letting Go Workshops",
+      "location": "The Three Monkeys — 832 8th Ave, New York, NY 10019, USA, New York, NY, New York, NY, us",
+      "performer": "Startup Pitch & Networking – NYC",
+      "organizer": "Startup Pitch & Networking – NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "The Postgres Mistakes that we all still make",
-      "url": "https://www.meetup.com/postgres-nyc/events/317310443/",
-      "startDate": "2026-11-18T23:00:00.000Z",
-      "endDate": "2026-11-18T23:00:00.000Z",
-      "location": "5 Bryant Park — 5 Bryant Pk, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "NYC Postgres",
-      "organizer": "NYC Postgres",
+      "name": "Psychopharmacology Update: 2026",
+      "url": "https://www.eventbrite.com/e/psychopharmacology-update-2026-tickets-2002077051355",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "location": "",
+      "performer": "",
+      "organizer": "",
       "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "Rebellious Business Networking Event",
@@ -132,6 +121,17 @@
       "organizer": "",
       "ticketPrice": "",
       "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "NY Professionals Happy Hour",
+      "url": "https://www.meetup.com/ny-young-professionals/events/317343570/",
+      "startDate": "2026-11-19T23:30:00.000Z",
+      "endDate": "2026-11-19T23:30:00.000Z",
+      "location": "Mr B bar — 231 E 33rd St, New York, NY 10016, USA, New York, NY, New York, NY, us",
+      "performer": "NY Young Professionals",
+      "organizer": "NY Young Professionals",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "A to Z Rental Property Management: From Application to Move-Out",
@@ -156,10 +156,10 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "How To Become A Medical Courier",
-      "url": "https://www.eventbrite.com/e/how-to-become-a-medical-courier-tickets-1987938980003",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
+      "name": "Taxes for Authors with Tova Epp",
+      "url": "https://www.eventbrite.ca/e/taxes-for-authors-with-tova-epp-tickets-1997720417546",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -189,39 +189,6 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Primary Progressive Aphasia: from diagnosis to current evidence for SLT",
-      "url": "https://www.eventbrite.co.uk/e/primary-progressive-aphasia-from-diagnosis-to-current-evidence-for-slt-tickets-2004320973988",
-      "startDate": "2026-11-26",
-      "endDate": "2026-11-26",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "23rd Annual Everyday Gynaecology Conference",
-      "url": "https://www.eventbrite.ca/e/23rd-annual-everyday-gynaecology-conference-tickets-1996166809663",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "CARL's 2026 National Fall Conference",
-      "url": "https://www.eventbrite.com/e/carls-2026-national-fall-conference-tickets-2002955101627",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
       "name": "Ping Pong Party - North Jersey",
       "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
       "startDate": "2026-11-28T00:30:00.000Z",
@@ -233,15 +200,26 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Introductions, desires, intentions...",
-      "url": "https://www.meetup.com/community-seeking-depth-and-aliveness/events/317442476/",
-      "startDate": "2026-11-29T17:00:00.000Z",
-      "endDate": "2026-11-29T17:00:00.000Z",
-      "location": "",
-      "performer": "Community seeking Depth and Aliveness",
-      "organizer": "Community seeking Depth and Aliveness",
+      "name": "Adult Laser Tag - Edgewater",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316744336/",
+      "startDate": "2026-11-28T22:00:00.000Z",
+      "endDate": "2026-11-28T22:00:00.000Z",
+      "location": "43 The Promenade — 43 The Promenade, Edgewater, NJ 07020, USA, Edgewater, NJ, Edgewater, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Financial Modeling 101: Five Modern Excel Features for Modelers in 2027",
+      "url": "https://www.eventbrite.co.uk/e/financial-modeling-101-five-modern-excel-features-for-modelers-in-2027-tickets-2004323033147",
+      "startDate": "2026-11-30",
+      "endDate": "2026-11-30",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "EBA Open Forum on Digital Transformation",
@@ -259,17 +237,6 @@
       "url": "https://www.eventbrite.co.uk/e/ai-at-work-tool-teammate-or-threat-tickets-1995683519128",
       "startDate": "2026-12-02",
       "endDate": "2026-12-02",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "Cut the Noise: Do More Deals Tour - VIRTUAL",
-      "url": "https://www.eventbrite.com/e/cut-the-noise-do-more-deals-tour-virtual-tickets-2003774223643",
-      "startDate": "2026-12-03",
-      "endDate": "2026-12-03",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -299,10 +266,10 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "HBR Press Webinar:  The Scientific Mindset",
-      "url": "https://www.eventbrite.com/e/hbr-press-webinar-the-scientific-mindset-tickets-2003821631441",
-      "startDate": "2026-12-08",
-      "endDate": "2026-12-08",
+      "name": "2026 Clemson University Income Tax Course - Online Event - Third Offering",
+      "url": "https://www.eventbrite.com/e/2026-clemson-university-income-tax-course-online-event-third-offering-tickets-1992227034690",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -321,10 +288,21 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Today's RDH Virtual Dental Continuing Education (CE) Event - Dec. 11, 2026",
-      "url": "https://www.eventbrite.com/e/todays-rdh-virtual-dental-continuing-education-ce-event-dec-11-2026-registration-2003939640409",
-      "startDate": "2026-12-11",
-      "endDate": "2026-12-11",
+      "name": "TSA Technical Series: Paint Chemistry 101",
+      "url": "https://www.eventbrite.ca/e/tsa-technical-series-paint-chemistry-101-tickets-1999408059328",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-08",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Multidisciplinary updates on Breast Cancer Management",
+      "url": "https://www.eventbrite.co.uk/e/multidisciplinary-updates-on-breast-cancer-management-tickets-1991183228638",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-09",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -336,6 +314,28 @@
       "url": "https://www.eventbrite.com/e/restoring-mentalization-attachment-focused-mbt-for-clinical-practice-tickets-1998961352215",
       "startDate": "2026-12-11",
       "endDate": "2026-12-11",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "The Good Path: Carrying Ancestral Wisdom into 2027",
+      "url": "https://www.meetup.com/you-are-one-and-many-who-do-you-choose-to-be/events/317207911/",
+      "startDate": "2026-12-12T16:00:00.000Z",
+      "endDate": "2026-12-12T16:00:00.000Z",
+      "location": "Church of St Joseph of Holy Family — 405 West 125 Street, New York, NY, New York, NY, US",
+      "performer": "You Are One and Many: Who do you Choose to Be",
+      "organizer": "You Are One and Many: Who do you Choose to Be",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Planting in a post AI world",
+      "url": "https://www.eventbrite.co.uk/e/planting-in-a-post-ai-world-tickets-2003064044478",
+      "startDate": "2027-01-27",
+      "endDate": "2027-01-27",
       "location": "",
       "performer": "",
       "organizer": "",
