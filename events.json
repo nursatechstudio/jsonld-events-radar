@@ -1,105 +1,6 @@
 {
-  "generatedAt": "2026-11-19T16:01:20.574Z",
+  "generatedAt": "2026-11-20T15:43:45.711Z",
   "events": [
-    {
-      "name": "Fabric Apps with an Agent & Real Reports for the Executive Team",
-      "url": "https://www.meetup.com/capital-area-sql-server-user-group/events/317152054/",
-      "startDate": "2026-11-19T17:00:00.000Z",
-      "endDate": "2026-11-19T17:00:00.000Z",
-      "location": "",
-      "performer": "Capital Region Data Professionals",
-      "organizer": "Capital Region Data Professionals",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Microsoft Fabric Masterclass Series: Build Intelligent Analytics Solutions",
-      "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/317191495/",
-      "startDate": "2026-11-19T17:00:00.000Z",
-      "endDate": "2026-11-19T17:00:00.000Z",
-      "location": "",
-      "performer": "Data & AI and App Development Meetup",
-      "organizer": "Data & AI and App Development Meetup",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Philosophy Day 2026!",
-      "url": "https://www.meetup.com/global-stoa/events/317049335/",
-      "startDate": "2026-11-19T23:00:00.000Z",
-      "endDate": "2026-11-19T23:00:00.000Z",
-      "location": "The City College of New York — New York, NY 10031, USA, New York, NY, New York, NY, us",
-      "performer": "Global Stoa",
-      "organizer": "Global Stoa",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Astoria & LIC Networking @ Pig Beach",
-      "url": "https://www.meetup.com/astoria-licnetworkingsocial/events/317159581/",
-      "startDate": "2026-11-19T23:00:00.000Z",
-      "endDate": "2026-11-19T23:00:00.000Z",
-      "location": "Pig Beach BBQ — 35-37 36th Street,, Astoria, NY, Astoria, NY, US",
-      "performer": "Astoria & LIC Networking Social",
-      "organizer": "Astoria & LIC Networking Social",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "*In Person* Practice and improve your public speaking skills!",
-      "url": "https://www.meetup.com/greenspeakers/events/317148064/",
-      "startDate": "2026-11-19T23:15:00.000Z",
-      "endDate": "2026-11-19T23:15:00.000Z",
-      "location": "Berkeley College — 3 East 43rd Street, New York, NY, New York, NY, US",
-      "performer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "organizer": "Greenspeakers Toastmasters Club - Practice Public Speaking",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "NY Professionals Happy Hour",
-      "url": "https://www.meetup.com/ny-young-professionals/events/317343570/",
-      "startDate": "2026-11-19T23:30:00.000Z",
-      "endDate": "2026-11-19T23:30:00.000Z",
-      "location": "Mr B bar — 231 E 33rd St, New York, NY 10016, USA, New York, NY, New York, NY, us",
-      "performer": "NY Young Professionals",
-      "organizer": "NY Young Professionals",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Make friends over pub and grub!",
-      "url": "https://www.meetup.com/ny-pub-and-grub/events/317343621/",
-      "startDate": "2026-11-19T23:30:00.000Z",
-      "endDate": "2026-11-19T23:30:00.000Z",
-      "location": "Mr B bar — 231 E 33rd St, New York, NY 10016, USA, New York, NY, New York, NY, us",
-      "performer": "NY Pub and Grub",
-      "organizer": "NY Pub and Grub",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "A to Z Rental Property Management: From Application to Move-Out",
-      "url": "https://www.eventbrite.com/e/a-to-z-rental-property-management-from-application-to-move-out-tickets-1999808688621",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "Learning from College of Registered Psychotherapists of Ontario Complaints",
-      "url": "https://www.eventbrite.com/e/learning-from-college-of-registered-psychotherapists-of-ontario-complaints-registration-1989393753269",
-      "startDate": "2026-11-20",
-      "endDate": "2026-11-20",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
     {
       "name": "The Gilded Age Revisited! Upper East Side Art & Architecture Tour",
       "url": "https://www.meetup.com/exploring-nyc-history-and-neighborhoods/events/316910013/",
@@ -112,15 +13,15 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Taxes for Authors with Tova Epp",
-      "url": "https://www.eventbrite.ca/e/taxes-for-authors-with-tova-epp-tickets-1997720417546",
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-21",
+      "name": "Systems Architecture for AI Introduction",
+      "url": "https://www.meetup.com/eli-the-computer-guy/events/317453815/",
+      "startDate": "2026-11-20T20:00:00.000Z",
+      "endDate": "2026-11-20T20:00:00.000Z",
       "location": "",
-      "performer": "",
-      "organizer": "",
+      "performer": "Eli the Computer Guy",
+      "organizer": "Eli the Computer Guy",
       "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "🌍🦃🍺Language Exchange THANKSGIVING Internationals Barcrawl : L.E.S.",
@@ -134,30 +35,41 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "HBR Book Webinar:  Unspeakable",
-      "url": "https://www.eventbrite.co.uk/e/hbr-book-webinar-unspeakable-tickets-2003706919334",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "location": "",
-      "performer": "",
-      "organizer": "",
+      "name": "Rockefeller Lookout with Fort Lee Park and Carpenter's Stairs (Vigorous)",
+      "url": "https://www.meetup.com/amcnynj/events/317433997/",
+      "startDate": "2026-11-21T15:00:00.000Z",
+      "endDate": "2026-11-21T15:00:00.000Z",
+      "location": "George Washington Bridge Bus Station — New York, NY 10033, USA, New York, NY, New York, NY, us",
+      "performer": "Appalachian Mountain Club New York-North Jersey",
+      "organizer": "Appalachian Mountain Club New York-North Jersey",
       "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Urban Woodland Virtual Symposium",
-      "url": "https://www.eventbrite.co.uk/e/urban-woodland-virtual-symposium-tickets-1993871843357",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "location": "",
-      "performer": "",
-      "organizer": "",
+      "name": "Free Shuffle dance class!",
+      "url": "https://www.meetup.com/funeventsinny/events/316274560/",
+      "startDate": "2026-11-21T16:00:00.000Z",
+      "endDate": "2026-11-21T16:00:00.000Z",
+      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
+      "performer": "Fun events in NY!",
+      "organizer": "Fun events in NY!",
       "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Rethinking Management & Leadership Training",
-      "url": "https://www.eventbrite.co.uk/e/rethinking-management-leadership-training-tickets-2003653006078",
+      "name": "Letting Go of Fear (In-person talk and online!)",
+      "url": "https://www.meetup.com/letting-go-workshops/events/317278227/",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "endDate": "2026-11-24T00:00:00.000Z",
+      "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "Letting Go Workshops",
+      "organizer": "Letting Go Workshops",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Peer Groups",
+      "url": "https://www.eventbrite.co.uk/e/peer-groups-tickets-2004182403520",
       "startDate": "2026-11-25",
       "endDate": "2026-11-25",
       "location": "",
@@ -167,9 +79,9 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Rebellious Business Networking Event",
-      "url": "https://www.eventbrite.co.uk/e/rebellious-business-networking-event-tickets-1979114948086",
-      "startDate": "2026-11-26",
+      "name": "COACHING AT WORK ONLINE CONFERENCE 2026",
+      "url": "https://www.eventbrite.co.uk/e/coaching-at-work-online-conference-2026-tickets-2002062880971",
+      "startDate": "2026-11-25",
       "endDate": "2026-11-26",
       "location": "",
       "performer": "",
@@ -178,19 +90,41 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "New York City Modern Gay Speed Dating Online",
-      "url": "https://www.meetup.com/weekly-hula-dance-circle/events/317407468/",
-      "startDate": "2026-11-29T21:00:00.000Z",
-      "endDate": "2026-11-29T21:00:00.000Z",
-      "location": "100 Gold Street — 100 Gold St, New York, NY 10038, USA, New York, NY, New York, NY, us",
-      "performer": "Weekly Hula Dance Circle",
-      "organizer": "Weekly Hula Dance Circle",
+      "name": "Ping Pong Party - North Jersey",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
+      "startDate": "2026-11-28T00:30:00.000Z",
+      "endDate": "2026-11-28T00:30:00.000Z",
+      "location": "Ready to Golf — 3 New Bridge Road, River Edge, NJ, River Edge, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Financial Modeling 101: Five Modern Excel Features for Modelers in 2027",
-      "url": "https://www.eventbrite.co.uk/e/financial-modeling-101-five-modern-excel-features-for-modelers-in-2027-tickets-2004323033147",
+      "name": "Adult Laser Tag - Edgewater",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316744336/",
+      "startDate": "2026-11-28T22:00:00.000Z",
+      "endDate": "2026-11-28T22:00:00.000Z",
+      "location": "43 The Promenade — 43 The Promenade, Edgewater, NJ 07020, USA, Edgewater, NJ, Edgewater, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Connection Experiment NYC (Nov 28, In Person)",
+      "url": "https://www.meetup.com/nyc-connection-experiment/events/317200876/",
+      "startDate": "2026-11-29T00:30:00.000Z",
+      "endDate": "2026-11-29T00:30:00.000Z",
+      "location": "Midtown Manhattan — Midtown Manhattan, New York, NY, USA, New York, NY, New York, NY, us",
+      "performer": "The Connection Experiment",
+      "organizer": "The Connection Experiment",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "How to Build AI Skills For Your Career in 2027",
+      "url": "https://www.eventbrite.com/e/how-to-build-ai-skills-for-your-career-in-2027-tickets-2004751317156",
       "startDate": "2026-11-30",
       "endDate": "2026-11-30",
       "location": "",
@@ -200,8 +134,8 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "EBA Open Forum on Digital Transformation",
-      "url": "https://www.eventbrite.com/e/eba-open-forum-on-digital-transformation-tickets-2001163586156",
+      "name": "Men’s Role in tackling male violence against women and girls",
+      "url": "https://www.eventbrite.co.uk/e/mens-role-in-tackling-male-violence-against-women-and-girls-tickets-2003928311524",
       "startDate": "2026-12-01",
       "endDate": "2026-12-01",
       "location": "",
@@ -211,10 +145,65 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "AI at work: Tool, Teammate or Threat?",
-      "url": "https://www.eventbrite.co.uk/e/ai-at-work-tool-teammate-or-threat-tickets-1995683519128",
-      "startDate": "2026-12-02",
-      "endDate": "2026-12-02",
+      "name": "Decembered grief: When Christmas isn’t the most wonderful time of the year",
+      "url": "https://www.eventbrite.co.uk/e/decembered-grief-when-christmas-isnt-the-most-wonderful-time-of-the-year-tickets-2003826270316",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Innovation in Action: The Future of Health and Social Care Project Awards",
+      "url": "https://www.eventbrite.co.uk/e/innovation-in-action-the-future-of-health-and-social-care-project-awards-tickets-2003011950664",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Social Media Trends for 2027",
+      "url": "https://www.eventbrite.co.uk/e/social-media-trends-for-2027-tickets-1994566737805",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "KEY Virtual Career Connect 12.03.26 powered by The KEY Community",
+      "url": "https://www.eventbrite.com/e/key-virtual-career-connect-120326-powered-by-the-key-community-tickets-2003320612881",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "NELFT/UCL Intellectual Disabilities conference",
+      "url": "https://www.eventbrite.co.uk/e/nelftucl-intellectual-disabilities-conference-tickets-2002195655102",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "OpenSimulator Community Conference 2026",
+      "url": "https://www.eventbrite.com/e/opensimulator-community-conference-2026-registration-2004563510421",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -233,9 +222,42 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Octane 2026 Intermediate Excel Bootcamp",
-      "url": "https://www.eventbrite.com/e/octane-2026-intermediate-excel-bootcamp-registration-2000262951333",
+      "name": "2026 Virtual Recharge Conference",
+      "url": "https://www.eventbrite.com/e/2026-virtual-recharge-conference-tickets-1998791954542",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Galway Sports Partnership's Online Safeguarding 1 Course",
+      "url": "https://www.eventbrite.ie/e/galway-sports-partnerships-online-safeguarding-1-course-tickets-2000397708395",
       "startDate": "2026-12-07",
+      "endDate": "2026-12-07",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "How to Land a Job in 2027: Build Your Strategy for the New Year",
+      "url": "https://www.eventbrite.com/e/how-to-land-a-job-in-2027-build-your-strategy-for-the-new-year-tickets-1995864419205",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-08",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Online Assistive Technology Showcase",
+      "url": "https://www.eventbrite.co.uk/e/online-assistive-technology-showcase-tickets-2004086624041",
+      "startDate": "2026-12-10",
       "endDate": "2026-12-10",
       "location": "",
       "performer": "",
@@ -244,10 +266,10 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "2026 Clemson University Income Tax Course - Online Event - Third Offering",
-      "url": "https://www.eventbrite.com/e/2026-clemson-university-income-tax-course-online-event-third-offering-tickets-1992227034690",
-      "startDate": "2026-12-07",
-      "endDate": "2026-12-09",
+      "name": "How to Build Your Personal Brand with AI in 2027",
+      "url": "https://www.eventbrite.com/e/how-to-build-your-personal-brand-with-ai-in-2027-tickets-2000803416880",
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-15",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -255,48 +277,15 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "HBR Book Webinar:  The Scientific Mindset",
-      "url": "https://www.eventbrite.co.uk/e/hbr-book-webinar-the-scientific-mindset-tickets-2003708909286",
-      "startDate": "2026-12-08",
-      "endDate": "2026-12-08",
-      "location": "",
-      "performer": "",
-      "organizer": "",
+      "name": "Cocktails, Connections & the Future of AI",
+      "url": "https://www.meetup.com/new-york-young-professionals-meetup-group/events/317478123/",
+      "startDate": "2026-12-16T23:30:00.000Z",
+      "endDate": "2026-12-16T23:30:00.000Z",
+      "location": "Monarch — 71 W 35th St, New York, NY, New York, NY, US",
+      "performer": "AI & Technology Leaders NYC",
+      "organizer": "AI & Technology Leaders NYC",
       "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "TSA Technical Series: Paint Chemistry 101",
-      "url": "https://www.eventbrite.ca/e/tsa-technical-series-paint-chemistry-101-tickets-1999408059328",
-      "startDate": "2026-12-08",
-      "endDate": "2026-12-08",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "Multidisciplinary updates on Breast Cancer Management",
-      "url": "https://www.eventbrite.co.uk/e/multidisciplinary-updates-on-breast-cancer-management-tickets-1991183228638",
-      "startDate": "2026-12-09",
-      "endDate": "2026-12-09",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "Restoring Mentalization: Attachment-Focused MBT for Clinical Practice",
-      "url": "https://www.eventbrite.com/e/restoring-mentalization-attachment-focused-mbt-for-clinical-practice-tickets-1998961352215",
-      "startDate": "2026-12-11",
-      "endDate": "2026-12-11",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "Back to the Basics, Hosted by Salesforce",
@@ -310,10 +299,10 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "But That’s What They Said! Conceptual Accuracy Beyond the Words",
-      "url": "https://www.eventbrite.com/e/but-thats-what-they-said-conceptual-accuracy-beyond-the-words-tickets-2002824849038",
-      "startDate": "2026-12-19",
-      "endDate": "2026-12-19",
+      "name": "How to Land a Job in 2027: Launch Your Job Search With Confidence",
+      "url": "https://www.eventbrite.com/e/how-to-land-a-job-in-2027-launch-your-job-search-with-confidence-tickets-1995864782291",
+      "startDate": "2027-01-04",
+      "endDate": "2027-01-04",
       "location": "",
       "performer": "",
       "organizer": "",
@@ -321,10 +310,43 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Planting in a post AI world",
-      "url": "https://www.eventbrite.co.uk/e/planting-in-a-post-ai-world-tickets-2003064044478",
-      "startDate": "2027-01-27",
-      "endDate": "2027-01-27",
+      "name": "The Trials & Tribulations of International Law & Diplomacy",
+      "url": "https://www.eventbrite.ca/e/the-trials-tribulations-of-international-law-diplomacy-tickets-2004598959450",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-09",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "AAC Morning Communication Partner Skills for AAC Workshop - Ruth Williams",
+      "url": "https://www.eventbrite.co.uk/e/aac-morning-communication-partner-skills-for-aac-workshop-ruth-williams-tickets-2001373123889",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-15",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Football Health and Performance Virtual Conference",
+      "url": "https://www.eventbrite.ca/e/football-health-and-performance-virtual-conference-tickets-2002896343881",
+      "startDate": "2027-02-07",
+      "endDate": "2027-02-07",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Linguists Collective Conference and International Mother Language Day 2027",
+      "url": "https://www.eventbrite.co.uk/e/linguists-collective-conference-and-international-mother-language-day-2027-tickets-2002202996059",
+      "startDate": "2027-02-21",
+      "endDate": "2027-02-21",
       "location": "",
       "performer": "",
       "organizer": "",
