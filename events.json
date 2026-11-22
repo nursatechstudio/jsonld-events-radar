@@ -1,39 +1,6 @@
 {
-  "generatedAt": "2026-11-21T14:54:32.642Z",
+  "generatedAt": "2026-11-22T14:52:13.057Z",
   "events": [
-    {
-      "name": "Rockefeller Lookout with Fort Lee Park and Carpenter's Stairs (Vigorous)",
-      "url": "https://www.meetup.com/amcnynj/events/317433997/",
-      "startDate": "2026-11-21T15:00:00.000Z",
-      "endDate": "2026-11-21T15:00:00.000Z",
-      "location": "George Washington Bridge Bus Station — New York, NY 10033, USA, New York, NY, New York, NY, us",
-      "performer": "Appalachian Mountain Club New York-North Jersey",
-      "organizer": "Appalachian Mountain Club New York-North Jersey",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Free Shuffle dance class!",
-      "url": "https://www.meetup.com/funeventsinny/events/316274560/",
-      "startDate": "2026-11-21T16:00:00.000Z",
-      "endDate": "2026-11-21T16:00:00.000Z",
-      "location": "X-Space LIC — 40-46 24th Street, Queens County, NY, Queens County, NY, US",
-      "performer": "Fun events in NY!",
-      "organizer": "Fun events in NY!",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Outdoor Badminton/Pickleball in Central Park",
-      "url": "https://www.meetup.com/nyc-outdoor-badminton/events/316375872/",
-      "startDate": "2026-11-21T17:00:00.000Z",
-      "endDate": "2026-11-21T17:00:00.000Z",
-      "location": "The Volley Ball Courts - Central Park Bandshell — Central Park Driveway, New York, NY, New York, NY, us",
-      "performer": "NYC Outdoor Badminton",
-      "organizer": "NYC Outdoor Badminton",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Epictetus on dealing with difficult circumstances",
       "url": "https://www.meetup.com/global-stoa/events/317243358/",
@@ -42,6 +9,50 @@
       "location": "",
       "performer": "Global Stoa",
       "organizer": "Global Stoa",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Central Park Meet & Run · All Paces Welcome",
+      "url": "https://www.meetup.com/nyc-triathlon-club/events/317449052/",
+      "startDate": "2026-11-22T17:45:00.000Z",
+      "endDate": "2026-11-22T17:45:00.000Z",
+      "location": "Engineers' Gate — 2 E 90th St, New York, NY 10128, USA, New York, NY, New York, NY, us",
+      "performer": "NYC Triathlon Club",
+      "organizer": "NYC Triathlon Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Central Park Bethesda Fountain Drawing Meetup! 11/22 @ 1pm!",
+      "url": "https://www.meetup.com/weekend-urban-sketch/events/317027157/",
+      "startDate": "2026-11-22T18:00:00.000Z",
+      "endDate": "2026-11-22T18:00:00.000Z",
+      "location": "Bethesda Fountain — New York, NY 10024, USA, New York, NY, New York, NY, us",
+      "performer": "Weekend Urban Sketch",
+      "organizer": "Weekend Urban Sketch",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Let’s play board games!! 🥳 Friendsgiving edition! 🙃",
+      "url": "https://www.meetup.com/borough-hoppers/events/317144334/",
+      "startDate": "2026-11-22T19:00:00.000Z",
+      "endDate": "2026-11-22T19:00:00.000Z",
+      "location": "The Hugh — 157 E 53rd St, New York, NY 10022, USA, New York, NY, New York, NY, us",
+      "performer": "Borough Hoppers",
+      "organizer": "Borough Hoppers",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Spiritual Social Get-Together @ 115 E 57th St Atrium",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317396246/",
+      "startDate": "2026-11-22T21:00:00.000Z",
+      "endDate": "2026-11-22T21:00:00.000Z",
+      "location": "115 East 57th Street — 115 E 57th St, New York, NY 10022, USA, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -57,24 +68,24 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Healing from Past Relationships",
-      "url": "https://www.meetup.com/relationship-love-group/events/317409347/",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "endDate": "2026-11-24T00:00:00.000Z",
-      "location": "",
-      "performer": "Relationship & Love Group",
-      "organizer": "Relationship & Love Group",
+      "name": "Would You Ship This?",
+      "url": "https://www.meetup.com/nycuxd/events/317192973/",
+      "startDate": "2026-11-23T22:00:00.000Z",
+      "endDate": "2026-11-23T22:00:00.000Z",
+      "location": "16 W 61st St, Manhattan, NY 10023 — 16 W 61st St, Manhattan, NY 10023, Manhattan, Ne, Manhattan, Ne, us",
+      "performer": "NYC User Experience & Digital Product Designers",
+      "organizer": "NYC User Experience & Digital Product Designers",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "⭐ Overcoming Social Anxiety to Become Confident in Yourself!",
-      "url": "https://www.meetup.com/you-can-change-your-emotional-intelligence/events/317364289/",
+      "name": "Letting Go of Fear (In-person talk and online!)",
+      "url": "https://www.meetup.com/letting-go-workshops/events/317278227/",
       "startDate": "2026-11-24T00:00:00.000Z",
       "endDate": "2026-11-24T00:00:00.000Z",
-      "location": "",
-      "performer": "You Can Change Your Emotional Intelligence",
-      "organizer": "You Can Change Your Emotional Intelligence",
+      "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
+      "performer": "Letting Go Workshops",
+      "organizer": "Letting Go Workshops",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -90,15 +101,15 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Electronic Music Production: From Idea to Track.",
-      "url": "https://www.meetup.com/raw-planet-nyc-electronic-music-producers/events/317391139/",
-      "startDate": "2026-11-25T23:30:00.000Z",
-      "endDate": "2026-11-25T23:30:00.000Z",
-      "location": "602 East 14th Street — 602 E 14th St, New York, NY 10009, USA, New York, NY, New York, NY, us",
-      "performer": "Raw Planet | NYC Electronic Music Producers",
-      "organizer": "Raw Planet | NYC Electronic Music Producers",
+      "name": "COACHING AT WORK ONLINE CONFERENCE 2026",
+      "url": "https://www.eventbrite.co.uk/e/coaching-at-work-online-conference-2026-tickets-2002062880971",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-26",
+      "location": "",
+      "performer": "",
+      "organizer": "",
       "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "Led by Faith | Networking for Christian Women in Business",
@@ -112,13 +123,46 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Book Club Meeting - The Diving Bell & the Butterfly by Jean-Dominique Bauby",
-      "url": "https://www.meetup.com/the-chronically-chill-meetup-group/events/316898574/",
-      "startDate": "2026-11-29T23:30:00.000Z",
-      "endDate": "2026-11-29T23:30:00.000Z",
+      "name": "CARL's 2026 National Fall Conference",
+      "url": "https://www.eventbrite.com/e/carls-2026-national-fall-conference-tickets-2002955101627",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
       "location": "",
-      "performer": "The Chronically ChILL Meetup Group",
-      "organizer": "The Chronically ChILL Meetup Group",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Ping Pong Party - North Jersey",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
+      "startDate": "2026-11-28T00:30:00.000Z",
+      "endDate": "2026-11-28T00:30:00.000Z",
+      "location": "Ready to Golf — 3 New Bridge Road, River Edge, NJ, River Edge, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Adult Laser Tag - Edgewater",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316744336/",
+      "startDate": "2026-11-28T22:00:00.000Z",
+      "endDate": "2026-11-28T22:00:00.000Z",
+      "location": "43 The Promenade — 43 The Promenade, Edgewater, NJ 07020, USA, Edgewater, NJ, Edgewater, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Connection Experiment NYC (Nov 28, In Person)",
+      "url": "https://www.meetup.com/nyc-connection-experiment/events/317200876/",
+      "startDate": "2026-11-29T00:30:00.000Z",
+      "endDate": "2026-11-29T00:30:00.000Z",
+      "location": "Midtown Manhattan — Midtown Manhattan, New York, NY, USA, New York, NY, New York, NY, us",
+      "performer": "The Connection Experiment",
+      "organizer": "The Connection Experiment",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -134,8 +178,8 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "EBA Open Forum on Digital Transformation",
-      "url": "https://www.eventbrite.com/e/eba-open-forum-on-digital-transformation-tickets-2001163586156",
+      "name": "Roofing Matters: Safety, Performance and Sustainability",
+      "url": "https://www.eventbrite.co.uk/e/roofing-matters-safety-performance-and-sustainability-tickets-1995907993537",
       "startDate": "2026-12-01",
       "endDate": "2026-12-01",
       "location": "",
@@ -145,8 +189,8 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Oliver McGowan Tier 1 Training Session",
-      "url": "https://www.eventbrite.co.uk/e/oliver-mcgowan-tier-1-training-session-tickets-2002057433678",
+      "name": "EBA Open Forum on Digital Transformation",
+      "url": "https://www.eventbrite.com/e/eba-open-forum-on-digital-transformation-tickets-2001163586156",
       "startDate": "2026-12-01",
       "endDate": "2026-12-01",
       "location": "",
@@ -286,17 +330,6 @@
       "organizer": "Sales Engineers of New York (SENY)",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "But That’s What They Said! Conceptual Accuracy Beyond the Words",
-      "url": "https://www.eventbrite.com/e/but-thats-what-they-said-conceptual-accuracy-beyond-the-words-tickets-2002824849038",
-      "startDate": "2026-12-19",
-      "endDate": "2026-12-19",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "Planting in a post AI world",
