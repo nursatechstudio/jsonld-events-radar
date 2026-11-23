@@ -1,72 +1,6 @@
 {
-  "generatedAt": "2026-11-22T14:52:13.057Z",
+  "generatedAt": "2026-11-23T18:42:36.735Z",
   "events": [
-    {
-      "name": "Epictetus on dealing with difficult circumstances",
-      "url": "https://www.meetup.com/global-stoa/events/317243358/",
-      "startDate": "2026-11-22T17:00:00.000Z",
-      "endDate": "2026-11-22T17:00:00.000Z",
-      "location": "",
-      "performer": "Global Stoa",
-      "organizer": "Global Stoa",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Central Park Meet & Run · All Paces Welcome",
-      "url": "https://www.meetup.com/nyc-triathlon-club/events/317449052/",
-      "startDate": "2026-11-22T17:45:00.000Z",
-      "endDate": "2026-11-22T17:45:00.000Z",
-      "location": "Engineers' Gate — 2 E 90th St, New York, NY 10128, USA, New York, NY, New York, NY, us",
-      "performer": "NYC Triathlon Club",
-      "organizer": "NYC Triathlon Club",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Central Park Bethesda Fountain Drawing Meetup! 11/22 @ 1pm!",
-      "url": "https://www.meetup.com/weekend-urban-sketch/events/317027157/",
-      "startDate": "2026-11-22T18:00:00.000Z",
-      "endDate": "2026-11-22T18:00:00.000Z",
-      "location": "Bethesda Fountain — New York, NY 10024, USA, New York, NY, New York, NY, us",
-      "performer": "Weekend Urban Sketch",
-      "organizer": "Weekend Urban Sketch",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Let’s play board games!! 🥳 Friendsgiving edition! 🙃",
-      "url": "https://www.meetup.com/borough-hoppers/events/317144334/",
-      "startDate": "2026-11-22T19:00:00.000Z",
-      "endDate": "2026-11-22T19:00:00.000Z",
-      "location": "The Hugh — 157 E 53rd St, New York, NY 10022, USA, New York, NY, New York, NY, us",
-      "performer": "Borough Hoppers",
-      "organizer": "Borough Hoppers",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Spiritual Social Get-Together @ 115 E 57th St Atrium",
-      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317396246/",
-      "startDate": "2026-11-22T21:00:00.000Z",
-      "endDate": "2026-11-22T21:00:00.000Z",
-      "location": "115 East 57th Street — 115 E 57th St, New York, NY 10022, USA, New York, NY, New York, NY, us",
-      "performer": "Socially Awkward but I'm Trying",
-      "organizer": "Socially Awkward but I'm Trying",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "HBR Book Webinar:  Unspeakable",
-      "url": "https://www.eventbrite.co.uk/e/hbr-book-webinar-unspeakable-tickets-2003706919334",
-      "startDate": "2026-11-23",
-      "endDate": "2026-11-23",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
     {
       "name": "Would You Ship This?",
       "url": "https://www.meetup.com/nycuxd/events/317192973/",
@@ -79,6 +13,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "November 2026 NYAPM Happy Hour",
+      "url": "https://www.meetup.com/new-york-asian-professionals/events/310350049/",
+      "startDate": "2026-11-23T23:00:00.000Z",
+      "endDate": "2026-11-23T23:00:00.000Z",
+      "location": "Clinton Hall — 230 E 51st St, New York, NY, New York, NY, us",
+      "performer": "New York Asian Professionals Meetup-11189 members & growing!",
+      "organizer": "New York Asian Professionals Meetup-11189 members & growing!",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "NYC Latinos Social Networking Monday",
+      "url": "https://www.meetup.com/latin-american-nyc-latinos-y-latinas-de-nueva-york/events/317543825/",
+      "startDate": "2026-11-23T23:00:00.000Z",
+      "endDate": "2026-11-23T23:00:00.000Z",
+      "location": "Sugar Mouse NYC — 47 3rd Ave, New York, NY 10003, USA, New York, NY, New York, NY, us",
+      "performer": "💃Latina NYC: Latinos y Latinas de Nueva York",
+      "organizer": "💃Latina NYC: Latinos y Latinas de Nueva York",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Letting Go of Fear (In-person talk and online!)",
       "url": "https://www.meetup.com/letting-go-workshops/events/317278227/",
       "startDate": "2026-11-24T00:00:00.000Z",
@@ -86,6 +42,28 @@
       "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
       "performer": "Letting Go Workshops",
       "organizer": "Letting Go Workshops",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "The Power of Gratitude",
+      "url": "https://www.meetup.com/the-thinkers-club/events/317123617/",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "endDate": "2026-11-24T00:00:00.000Z",
+      "location": "",
+      "performer": "The Thinkers' Club",
+      "organizer": "The Thinkers' Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "⭐ Overcoming Social Anxiety to Become Confident in Yourself!",
+      "url": "https://www.meetup.com/you-can-change-your-emotional-intelligence/events/317364289/",
+      "startDate": "2026-11-24T00:00:00.000Z",
+      "endDate": "2026-11-24T00:00:00.000Z",
+      "location": "",
+      "performer": "You Can Change Your Emotional Intelligence",
+      "organizer": "You Can Change Your Emotional Intelligence",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -110,6 +88,17 @@
       "organizer": "",
       "ticketPrice": "",
       "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "🍜Asian Background Social: Lounge Asia Meetup (Easy English) @ New York 6pm",
+      "url": "https://www.meetup.com/loungeasiaamericas/events/317249949/",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "endDate": "2026-11-25T00:00:00.000Z",
+      "location": "The Folly — 92 W Houston St, New York, NY 10012, USA, New York, NY, New York, NY, us",
+      "performer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "organizer": "🍜 Lounge Asia Americas | Asian Socials (Easy English)",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "Led by Faith | Networking for Christian Women in Business",
@@ -139,17 +128,6 @@
       "startDate": "2026-11-28T00:30:00.000Z",
       "endDate": "2026-11-28T00:30:00.000Z",
       "location": "Ready to Golf — 3 New Bridge Road, River Edge, NJ, River Edge, NJ, us",
-      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
-      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Adult Laser Tag - Edgewater",
-      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316744336/",
-      "startDate": "2026-11-28T22:00:00.000Z",
-      "endDate": "2026-11-28T22:00:00.000Z",
-      "location": "43 The Promenade — 43 The Promenade, Edgewater, NJ 07020, USA, Edgewater, NJ, Edgewater, NJ, us",
       "performer": "North Jersey Bowling, Volleyball, Tennis & More",
       "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
       "ticketPrice": "",
@@ -220,6 +198,17 @@
       "organizer": "",
       "ticketPrice": "",
       "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Where Will Your Next Customer Come From? The AI Sales Funnel Answer [ONLINE]",
+      "url": "https://www.meetup.com/new-york-ai-founders-entrepreneurs-club/events/317513606/",
+      "startDate": "2026-12-02T17:00:00.000Z",
+      "endDate": "2026-12-02T17:00:00.000Z",
+      "location": "",
+      "performer": "New York AI Founders & Entrepreneurs Club",
+      "organizer": "New York AI Founders & Entrepreneurs Club",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "Rust NYC: The UnConf 2026.",
@@ -314,6 +303,17 @@
       "url": "https://www.eventbrite.com/e/restoring-mentalization-attachment-focused-mbt-for-clinical-practice-tickets-1998961352215",
       "startDate": "2026-12-11",
       "endDate": "2026-12-11",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
+      "name": "Fixation de loyer 2027 : Découvrez les prédictions en primeur",
+      "url": "https://www.eventbrite.ca/e/fixation-de-loyer-2027-decouvrez-les-predictions-en-primeur-tickets-2000654113309",
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-15",
       "location": "",
       "performer": "",
       "organizer": "",
