@@ -1,69 +1,14 @@
 {
-  "generatedAt": "2026-11-23T18:42:36.735Z",
+  "generatedAt": "2026-11-24T18:14:29.284Z",
   "events": [
     {
-      "name": "Would You Ship This?",
-      "url": "https://www.meetup.com/nycuxd/events/317192973/",
-      "startDate": "2026-11-23T22:00:00.000Z",
-      "endDate": "2026-11-23T22:00:00.000Z",
-      "location": "16 W 61st St, Manhattan, NY 10023 — 16 W 61st St, Manhattan, NY 10023, Manhattan, Ne, Manhattan, Ne, us",
-      "performer": "NYC User Experience & Digital Product Designers",
-      "organizer": "NYC User Experience & Digital Product Designers",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "November 2026 NYAPM Happy Hour",
-      "url": "https://www.meetup.com/new-york-asian-professionals/events/310350049/",
-      "startDate": "2026-11-23T23:00:00.000Z",
-      "endDate": "2026-11-23T23:00:00.000Z",
-      "location": "Clinton Hall — 230 E 51st St, New York, NY, New York, NY, us",
-      "performer": "New York Asian Professionals Meetup-11189 members & growing!",
-      "organizer": "New York Asian Professionals Meetup-11189 members & growing!",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "NYC Latinos Social Networking Monday",
-      "url": "https://www.meetup.com/latin-american-nyc-latinos-y-latinas-de-nueva-york/events/317543825/",
-      "startDate": "2026-11-23T23:00:00.000Z",
-      "endDate": "2026-11-23T23:00:00.000Z",
-      "location": "Sugar Mouse NYC — 47 3rd Ave, New York, NY 10003, USA, New York, NY, New York, NY, us",
-      "performer": "💃Latina NYC: Latinos y Latinas de Nueva York",
-      "organizer": "💃Latina NYC: Latinos y Latinas de Nueva York",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Letting Go of Fear (In-person talk and online!)",
-      "url": "https://www.meetup.com/letting-go-workshops/events/317278227/",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "endDate": "2026-11-24T00:00:00.000Z",
-      "location": "1030 6th Avenue — 1030 6th Ave, New York, NY 10018, USA, New York, NY, New York, NY, us",
-      "performer": "Letting Go Workshops",
-      "organizer": "Letting Go Workshops",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "The Power of Gratitude",
-      "url": "https://www.meetup.com/the-thinkers-club/events/317123617/",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "endDate": "2026-11-24T00:00:00.000Z",
+      "name": "You Are Not Alone - Group Support During Your Divorce",
+      "url": "https://www.meetup.com/support-through-divorce-process/events/317507230/",
+      "startDate": "2026-11-24T23:30:00.000Z",
+      "endDate": "2026-11-24T23:30:00.000Z",
       "location": "",
-      "performer": "The Thinkers' Club",
-      "organizer": "The Thinkers' Club",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "⭐ Overcoming Social Anxiety to Become Confident in Yourself!",
-      "url": "https://www.meetup.com/you-can-change-your-emotional-intelligence/events/317364289/",
-      "startDate": "2026-11-24T00:00:00.000Z",
-      "endDate": "2026-11-24T00:00:00.000Z",
-      "location": "",
-      "performer": "You Can Change Your Emotional Intelligence",
-      "organizer": "You Can Change Your Emotional Intelligence",
+      "performer": "Support Through Divorce Process",
+      "organizer": "Support Through Divorce Process",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -101,15 +46,26 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
-      "name": "Led by Faith | Networking for Christian Women in Business",
-      "url": "https://www.eventbrite.com/e/led-by-faith-networking-for-christian-women-in-business-tickets-1999062091529",
-      "startDate": "2026-11-26",
-      "endDate": "2026-11-26",
+      "name": "Get More Customers Through Google Ads & Facebook/Instagram Ads",
+      "url": "https://www.meetup.com/business-networking-referral-community/events/317511368/",
+      "startDate": "2026-11-25T17:00:00.000Z",
+      "endDate": "2026-11-25T17:00:00.000Z",
       "location": "",
-      "performer": "",
-      "organizer": "",
+      "performer": "Business Networking & Referral Community",
+      "organizer": "Business Networking & Referral Community",
       "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "HAPPY HOUR (Thanksgiving Eve) -- MAGGIANO’S in Hackensack NJ 🍹🍸☕️🥃",
+      "url": "https://www.meetup.com/kick-it-up-a-notch/events/316348235/",
+      "startDate": "2026-11-25T22:00:00.000Z",
+      "endDate": "2026-11-25T22:00:00.000Z",
+      "location": "Maggiano's Little Italy — 70 Riverside Square Mall, Hackensack, NJ, Hackensack, NJ, us",
+      "performer": "Kick It Up a Notch 40+",
+      "organizer": "Kick It Up a Notch 40+",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
       "name": "CARL's 2026 National Fall Conference",
@@ -123,11 +79,33 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
+      "name": "Hypnosis for Anxiety Relief",
+      "url": "https://www.meetup.com/reprogram-your-subconscious-group/events/317521714/",
+      "startDate": "2026-11-28T00:00:00.000Z",
+      "endDate": "2026-11-28T00:00:00.000Z",
+      "location": "",
+      "performer": "The Bridge - Hypnotherapy",
+      "organizer": "The Bridge - Hypnotherapy",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "Ping Pong Party - North Jersey",
       "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
       "startDate": "2026-11-28T00:30:00.000Z",
       "endDate": "2026-11-28T00:30:00.000Z",
       "location": "Ready to Golf — 3 New Bridge Road, River Edge, NJ, River Edge, NJ, us",
+      "performer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Adult Laser Tag - Edgewater",
+      "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/316744336/",
+      "startDate": "2026-11-28T22:00:00.000Z",
+      "endDate": "2026-11-28T22:00:00.000Z",
+      "location": "43 The Promenade — 43 The Promenade, Edgewater, NJ 07020, USA, Edgewater, NJ, Edgewater, NJ, us",
       "performer": "North Jersey Bowling, Volleyball, Tennis & More",
       "organizer": "North Jersey Bowling, Volleyball, Tennis & More",
       "ticketPrice": "",
@@ -141,6 +119,17 @@
       "location": "Midtown Manhattan — Midtown Manhattan, New York, NY, USA, New York, NY, New York, NY, us",
       "performer": "The Connection Experiment",
       "organizer": "The Connection Experiment",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "🕊 UPPER WEST SIDE GIRL CLUB COFFEE WALK 🍁",
+      "url": "https://www.meetup.com/girlsgoexplorenyc/events/317260044/",
+      "startDate": "2026-11-29T16:00:00.000Z",
+      "endDate": "2026-11-29T16:00:00.000Z",
+      "location": "Variety Coffee Roasters — 455 Amsterdam Ave, New York, NY, New York, NY, us",
+      "performer": "Girls Go Explore NYC",
+      "organizer": "Girls Go Explore NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -200,13 +189,13 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Where Will Your Next Customer Come From? The AI Sales Funnel Answer [ONLINE]",
-      "url": "https://www.meetup.com/new-york-ai-founders-entrepreneurs-club/events/317513606/",
-      "startDate": "2026-12-02T17:00:00.000Z",
-      "endDate": "2026-12-02T17:00:00.000Z",
-      "location": "",
-      "performer": "New York AI Founders & Entrepreneurs Club",
-      "organizer": "New York AI Founders & Entrepreneurs Club",
+      "name": "LeadDev New York Meetup",
+      "url": "https://www.meetup.com/leaddev-meetup-newyork/events/317405833/",
+      "startDate": "2026-12-02T23:00:00.000Z",
+      "endDate": "2026-12-02T23:00:00.000Z",
+      "location": "Ro - The Patient Company — 625 6th Ave 4th fl, New York, NY 10011, USA, New York, NY, New York, NY, us",
+      "performer": "LeadDev Meetup - New York",
+      "organizer": "LeadDev Meetup - New York",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -220,6 +209,17 @@
       "organizer": "Rust NYC",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Burn IN Not OUT!  Making Cultural Shifts for Youth to Lead",
+      "url": "https://www.eventbrite.com/e/burn-in-not-out-making-cultural-shifts-for-youth-to-lead-registration-2000278393521",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
       "name": "ITPM End of Year 2026 Online Conference",
@@ -277,17 +277,6 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
-      "name": "Dementia Progression:  What to Expect",
-      "url": "https://www.eventbrite.com/e/dementia-progression-what-to-expect-tickets-2004329645926",
-      "startDate": "2026-12-08",
-      "endDate": "2026-12-08",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
       "name": "Multidisciplinary updates on Breast Cancer Management",
       "url": "https://www.eventbrite.co.uk/e/multidisciplinary-updates-on-breast-cancer-management-tickets-1991183228638",
       "startDate": "2026-12-09",
@@ -321,6 +310,17 @@
       "source": "https://www.eventbrite.com/d/online/conference/"
     },
     {
+      "name": "【重辦加開・篩查專場】CPT持續專業培訓課程 - 科技賦能合規教學系列：高效客戶名稱篩查及交易監察實務",
+      "url": "https://www.eventbrite.hk/e/cpt--tickets-2005113754215",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-17",
+      "location": "",
+      "performer": "",
+      "organizer": "",
+      "ticketPrice": "",
+      "source": "https://www.eventbrite.com/d/online/conference/"
+    },
+    {
       "name": "Back to the Basics, Hosted by Salesforce",
       "url": "https://www.meetup.com/sales-engineers-of-new-york/events/317456900/",
       "startDate": "2026-12-17T22:30:00.000Z",
@@ -336,17 +336,6 @@
       "url": "https://www.eventbrite.co.uk/e/planting-in-a-post-ai-world-tickets-2003064044478",
       "startDate": "2027-01-27",
       "endDate": "2027-01-27",
-      "location": "",
-      "performer": "",
-      "organizer": "",
-      "ticketPrice": "",
-      "source": "https://www.eventbrite.com/d/online/conference/"
-    },
-    {
-      "name": "Breast MRI Course",
-      "url": "https://www.eventbrite.co.uk/e/breast-mri-course-tickets-2001203887699",
-      "startDate": "2027-02-05",
-      "endDate": "2027-02-05",
       "location": "",
       "performer": "",
       "organizer": "",
