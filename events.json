@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-11-25T17:34:44.199Z",
+  "generatedAt": "2026-11-26T17:16:06.009Z",
   "events": [
-    {
-      "name": "HAPPY HOUR (Thanksgiving Eve) -- MAGGIANO’S in Hackensack NJ 🍹🍸☕️🥃",
-      "url": "https://www.meetup.com/kick-it-up-a-notch/events/316348235/",
-      "startDate": "2026-11-25T22:00:00.000Z",
-      "endDate": "2026-11-25T22:00:00.000Z",
-      "location": "Maggiano's Little Italy — 70 Riverside Square Mall, Hackensack, NJ, Hackensack, NJ, us",
-      "performer": "Kick It Up a Notch 40+",
-      "organizer": "Kick It Up a Notch 40+",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Feeling Nervous? You Can Still Have a Good Time",
       "url": "https://www.meetup.com/a-new-relationship/events/317425442/",
@@ -68,6 +57,17 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Interfaith sharing",
+      "url": "https://www.meetup.com/community-seeking-depth-and-aliveness/events/317442476/",
+      "startDate": "2026-11-29T17:00:00.000Z",
+      "endDate": "2026-11-29T17:00:00.000Z",
+      "location": "",
+      "performer": "Community seeking Depth and Aliveness",
+      "organizer": "Community seeking Depth and Aliveness",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "NY's Biggest Professional Networking Mixer - Entrepreneur, Tech & Game-Changers",
       "url": "https://www.meetup.com/meetup-group-grbqwgeh/events/316791882/",
       "startDate": "2026-11-30T23:30:00.000Z",
@@ -75,17 +75,6 @@
       "location": "Elsie Rooftop — 1412 Broadway, New York, NY 10018, USA, New York, NY, New York, NY, us",
       "performer": "NY Tech, Creatives, and Business Professionals Happy Hour",
       "organizer": "NY Tech, Creatives, and Business Professionals Happy Hour",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "From Idea to First Customer: Build Your Whole Funnel with Claude [ONLINE]",
-      "url": "https://www.meetup.com/the-ai-business-lab/events/317185622/",
-      "startDate": "2026-12-02T20:00:00.000Z",
-      "endDate": "2026-12-02T20:00:00.000Z",
-      "location": "",
-      "performer": "The AI Business Lab",
-      "organizer": "The AI Business Lab",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
@@ -108,17 +97,6 @@
       "location": "Jay Conference Chelsea - Conference Center & Events Venue — 159 West 25th Street 2nd & 3rd Floors, New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "Rust NYC",
       "organizer": "Rust NYC",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
-    {
-      "name": "Strangers to Friends: A Holiday Social 🍷✨",
-      "url": "https://www.meetup.com/connectivity-like-minded-women-finding-one-another/events/317470758/",
-      "startDate": "2026-12-12T22:30:00.000Z",
-      "endDate": "2026-12-12T22:30:00.000Z",
-      "location": "UWS — Upper West Side, New York, NY, USA, New York, NY, New York, NY, us",
-      "performer": "Connectivity: Like-minded women finding one another",
-      "organizer": "Connectivity: Like-minded women finding one another",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
