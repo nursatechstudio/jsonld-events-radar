@@ -1,17 +1,6 @@
 {
-  "generatedAt": "2026-11-26T17:16:06.009Z",
+  "generatedAt": "2026-11-27T16:56:46.445Z",
   "events": [
-    {
-      "name": "Feeling Nervous? You Can Still Have a Good Time",
-      "url": "https://www.meetup.com/a-new-relationship/events/317425442/",
-      "startDate": "2026-11-28T00:00:00.000Z",
-      "endDate": "2026-11-28T00:00:00.000Z",
-      "location": "",
-      "performer": "A New Relationship",
-      "organizer": "A New Relationship",
-      "ticketPrice": "",
-      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
-    },
     {
       "name": "Ping Pong Party - North Jersey",
       "url": "https://www.meetup.com/north-jersey-bowling-soccer-volleyball/events/317067180/",
@@ -79,6 +68,28 @@
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
     {
+      "name": "Trauma-Informed Care: Understanding the Impact of Intergenerational Trauma",
+      "url": "https://www.meetup.com/anti-racism-international-usa-canada-and-europe/events/317526272/",
+      "startDate": "2026-12-01T14:30:00.000Z",
+      "endDate": "2026-12-01T14:30:00.000Z",
+      "location": "",
+      "performer": "Anti-Racism International: USA, Canada, and Europe",
+      "organizer": "Anti-Racism International: USA, Canada, and Europe",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
+      "url": "https://www.meetup.com/above-the-model/events/316684583/",
+      "startDate": "2026-12-02T00:00:00.000Z",
+      "endDate": "2026-12-02T00:00:00.000Z",
+      "location": "",
+      "performer": "Above the Model",
+      "organizer": "Above the Model",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
       "name": "LeadDev New York Meetup",
       "url": "https://www.meetup.com/leaddev-meetup-newyork/events/317405833/",
       "startDate": "2026-12-02T23:00:00.000Z",
@@ -97,6 +108,17 @@
       "location": "Jay Conference Chelsea - Conference Center & Events Venue — 159 West 25th Street 2nd & 3rd Floors, New York, NY 10001, USA, New York, NY, New York, NY, us",
       "performer": "Rust NYC",
       "organizer": "Rust NYC",
+      "ticketPrice": "",
+      "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
+    },
+    {
+      "name": "Chelsea Art Gallery Crawl!",
+      "url": "https://www.meetup.com/socially-awkward-but-im-trying/events/317358585/",
+      "startDate": "2026-12-05T19:00:00.000Z",
+      "endDate": "2026-12-05T19:00:00.000Z",
+      "location": "Marquee New York — 289 10th Avenue, New York, NY, New York, NY, us",
+      "performer": "Socially Awkward but I'm Trying",
+      "organizer": "Socially Awkward but I'm Trying",
       "ticketPrice": "",
       "source": "https://www.meetup.com/find/?source=EVENTS&location=us--nyc"
     },
